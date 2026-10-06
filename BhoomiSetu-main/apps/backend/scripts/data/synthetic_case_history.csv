@@ -1,0 +1,1801 @@
+project_type,state,district,current_stage,parcel_count,objection_count,document_turnaround_days,officer_open_load,days_in_compensation,delay_days_remaining,compensation_days
+urban_transit,Maharashtra,Indore,award,1,2,8,29,96,180.0,103.0
+rail,Maharashtra,Satara,award,6,1,18,29,28,179.0,79.0
+highway,Karnataka,Satara,compensation,6,0,7,31,112,98.0,86.0
+irrigation,Maharashtra,Pune,verification,6,3,28,10,24,306.0,104.0
+rail,Madhya Pradesh,Ahmedabad,verification,6,0,36,47,59,269.0,101.0
+rail,Madhya Pradesh,Indore,compensation,5,1,5,13,46,107.0,66.0
+highway,Madhya Pradesh,Ahmedabad,objection,5,5,31,47,48,342.0,153.0
+urban_transit,Madhya Pradesh,Satara,award,6,0,20,30,34,163.0,73.0
+urban_transit,Gujarat,Nagpur,objection,3,3,45,30,67,302.0,139.0
+highway,Maharashtra,Ahmedabad,verification,2,1,19,28,20,262.0,81.0
+rail,Karnataka,Pune,compensation,6,2,38,45,81,220.0,140.0
+highway,Madhya Pradesh,Ahmedabad,verification,2,1,28,31,96,241.0,100.0
+urban_transit,Karnataka,Indore,compensation,6,1,36,30,66,166.0,107.0
+rail,Gujarat,Nagpur,possession,6,0,31,49,26,121.0,89.0
+irrigation,Gujarat,Pune,award,6,2,37,49,85,230.0,130.0
+rail,Madhya Pradesh,Ahmedabad,possession,4,3,45,45,51,181.0,131.0
+urban_transit,Madhya Pradesh,Nashik,notification,6,0,24,27,84,276.0,92.0
+rail,Maharashtra,Nashik,award,2,2,30,10,66,203.0,104.0
+rail,Karnataka,Indore,verification,6,3,39,39,33,346.0,131.0
+rail,Gujarat,Satara,award,1,3,8,40,91,225.0,125.0
+urban_transit,Maharashtra,Indore,verification,4,4,45,26,41,377.0,148.0
+highway,Gujarat,Indore,possession,4,0,39,34,24,115.0,85.0
+irrigation,Madhya Pradesh,Indore,compensation,3,1,16,5,33,145.0,79.0
+highway,Madhya Pradesh,Indore,compensation,1,3,40,36,68,216.0,134.0
+urban_transit,Karnataka,Ahmedabad,verification,1,1,25,15,115,273.0,118.0
+urban_transit,Maharashtra,Nagpur,compensation,1,3,11,40,57,200.0,119.0
+highway,Karnataka,Nashik,possession,3,1,20,5,19,107.0,74.0
+highway,Karnataka,Indore,verification,6,2,34,32,52,286.0,107.0
+irrigation,Maharashtra,Satara,verification,2,1,2,26,39,223.0,67.0
+highway,Madhya Pradesh,Nashik,objection,3,3,18,41,11,286.0,109.0
+rail,Gujarat,Nagpur,possession,3,2,17,4,12,132.0,84.0
+rail,Maharashtra,Indore,possession,5,1,7,38,62,89.0,83.0
+urban_transit,Gujarat,Satara,notification,1,0,36,38,90,293.0,105.0
+irrigation,Gujarat,Indore,possession,4,3,19,48,53,158.0,118.0
+irrigation,Maharashtra,Ahmedabad,verification,5,1,7,38,103,250.0,103.0
+highway,Gujarat,Satara,verification,2,3,31,45,73,320.0,132.0
+highway,Karnataka,Pune,objection,2,0,6,10,82,181.0,77.0
+urban_transit,Gujarat,Pune,possession,2,2,26,30,65,149.0,115.0
+highway,Karnataka,Ahmedabad,possession,4,0,39,14,43,125.0,93.0
+highway,Karnataka,Nagpur,verification,6,1,20,4,97,234.0,92.0
+urban_transit,Maharashtra,Indore,compensation,5,0,15,20,23,111.0,60.0
+irrigation,Madhya Pradesh,Satara,notification,3,3,10,50,3,337.0,96.0
+irrigation,Gujarat,Indore,verification,4,1,36,34,65,286.0,111.0
+urban_transit,Madhya Pradesh,Indore,notification,4,2,10,10,2,295.0,70.0
+irrigation,Madhya Pradesh,Pune,notification,2,1,37,24,97,291.0,106.0
+irrigation,Madhya Pradesh,Nagpur,notification,3,2,28,50,79,342.0,126.0
+irrigation,Gujarat,Nagpur,notification,5,1,42,12,40,298.0,89.0
+highway,Gujarat,Pune,notification,1,0,9,35,32,272.0,70.0
+irrigation,Karnataka,Pune,award,3,1,3,23,105,175.0,101.0
+rail,Karnataka,Nagpur,compensation,1,3,7,5,104,139.0,102.0
+rail,Karnataka,Ahmedabad,verification,4,0,15,5,17,210.0,51.0
+urban_transit,Maharashtra,Satara,notification,4,1,11,50,89,325.0,118.0
+urban_transit,Maharashtra,Ahmedabad,award,4,0,17,43,12,159.0,65.0
+highway,Maharashtra,Pune,verification,6,3,6,43,80,269.0,108.0
+highway,Maharashtra,Satara,verification,6,2,27,23,29,274.0,91.0
+rail,Madhya Pradesh,Nagpur,notification,2,0,25,7,104,265.0,91.0
+rail,Maharashtra,Nagpur,notification,5,1,29,22,92,319.0,116.0
+irrigation,Gujarat,Ahmedabad,possession,6,0,9,29,40,91.0,74.0
+irrigation,Madhya Pradesh,Nagpur,notification,5,1,22,22,8,311.0,81.0
+highway,Karnataka,Ahmedabad,compensation,1,1,23,19,43,133.0,80.0
+irrigation,Karnataka,Nashik,verification,6,2,30,15,8,286.0,89.0
+highway,Maharashtra,Nagpur,compensation,3,2,27,15,98,151.0,109.0
+rail,Gujarat,Pune,verification,2,3,27,48,44,318.0,121.0
+irrigation,Madhya Pradesh,Ahmedabad,objection,6,2,36,28,29,266.0,106.0
+highway,Maharashtra,Nashik,possession,3,2,16,12,39,107.0,83.0
+highway,Maharashtra,Nagpur,possession,1,1,23,50,28,131.0,94.0
+rail,Maharashtra,Indore,verification,4,0,42,22,109,257.0,111.0
+urban_transit,Maharashtra,Nagpur,compensation,2,2,22,19,101,176.0,121.0
+urban_transit,Karnataka,Pune,objection,6,1,41,17,5,255.0,91.0
+rail,Karnataka,Satara,verification,4,0,3,21,42,209.0,59.0
+highway,Karnataka,Nagpur,award,6,1,35,5,110,198.0,116.0
+irrigation,Karnataka,Ahmedabad,notification,6,3,25,40,22,332.0,101.0
+highway,Gujarat,Satara,award,4,3,21,34,80,232.0,125.0
+rail,Madhya Pradesh,Nashik,objection,2,3,32,15,91,255.0,122.0
+highway,Karnataka,Nagpur,objection,3,2,39,40,114,284.0,146.0
+irrigation,Maharashtra,Pune,possession,1,1,4,11,32,67.0,59.0
+urban_transit,Madhya Pradesh,Indore,award,1,2,22,25,81,177.0,98.0
+highway,Madhya Pradesh,Nagpur,possession,3,1,38,37,4,133.0,88.0
+irrigation,Karnataka,Nagpur,award,4,1,13,29,20,163.0,68.0
+irrigation,Maharashtra,Nagpur,notification,4,2,37,50,11,366.0,115.0
+highway,Gujarat,Ahmedabad,possession,1,0,24,28,88,104.0,99.0
+urban_transit,Karnataka,Pune,award,1,3,13,49,102,215.0,126.0
+highway,Gujarat,Satara,award,6,1,33,41,44,192.0,95.0
+urban_transit,Karnataka,Indore,verification,3,3,21,40,42,314.0,116.0
+irrigation,Karnataka,Nagpur,possession,6,0,16,38,17,95.0,70.0
+irrigation,Gujarat,Nagpur,objection,4,0,7,5,120,163.0,81.0
+irrigation,Maharashtra,Nagpur,objection,5,2,43,11,72,281.0,127.0
+highway,Maharashtra,Nagpur,verification,4,3,9,11,34,256.0,82.0
+rail,Karnataka,Nagpur,possession,3,3,12,30,5,121.0,80.0
+highway,Madhya Pradesh,Pune,notification,5,1,25,12,2,275.0,62.0
+irrigation,Madhya Pradesh,Nagpur,award,6,1,7,38,53,149.0,74.0
+urban_transit,Maharashtra,Satara,notification,1,2,7,38,79,311.0,107.0
+rail,Madhya Pradesh,Satara,possession,1,2,31,25,29,117.0,88.0
+urban_transit,Madhya Pradesh,Satara,verification,5,2,7,8,93,246.0,96.0
+rail,Maharashtra,Nashik,verification,5,0,6,41,26,238.0,70.0
+highway,Madhya Pradesh,Ahmedabad,verification,3,2,6,46,33,242.0,78.0
+irrigation,Maharashtra,Ahmedabad,possession,1,1,37,49,37,136.0,102.0
+irrigation,Karnataka,Indore,award,3,2,20,21,43,188.0,89.0
+urban_transit,Maharashtra,Nashik,award,6,2,36,50,110,250.0,147.0
+irrigation,Madhya Pradesh,Nagpur,compensation,4,1,4,50,66,147.0,95.0
+highway,Madhya Pradesh,Nagpur,objection,5,0,42,51,106,229.0,118.0
+urban_transit,Madhya Pradesh,Ahmedabad,notification,4,4,13,28,99,343.0,131.0
+urban_transit,Karnataka,Indore,objection,4,0,45,4,42,216.0,84.0
+irrigation,Madhya Pradesh,Pune,compensation,4,5,25,26,69,232.0,140.0
+highway,Maharashtra,Ahmedabad,award,6,1,16,46,0,198.0,80.0
+urban_transit,Madhya Pradesh,Nashik,objection,2,0,36,10,103,185.0,91.0
+urban_transit,Gujarat,Nagpur,award,3,3,25,15,61,234.0,118.0
+rail,Karnataka,Pune,objection,4,1,19,30,33,208.0,78.0
+irrigation,Karnataka,Nashik,compensation,6,3,45,25,109,201.0,141.0
+irrigation,Maharashtra,Nashik,award,1,1,11,42,79,177.0,97.0
+rail,Karnataka,Nashik,objection,1,3,15,14,22,251.0,93.0
+rail,Madhya Pradesh,Pune,possession,1,0,29,40,68,100.0,93.0
+highway,Maharashtra,Satara,possession,6,6,7,45,78,193.0,144.0
+irrigation,Maharashtra,Pune,compensation,4,2,29,7,107,171.0,120.0
+highway,Madhya Pradesh,Pune,possession,4,3,24,14,43,154.0,109.0
+irrigation,Karnataka,Indore,verification,3,3,6,40,104,282.0,121.0
+urban_transit,Gujarat,Ahmedabad,notification,5,1,2,9,77,241.0,69.0
+highway,Maharashtra,Nagpur,verification,1,0,10,49,108,265.0,112.0
+urban_transit,Karnataka,Nagpur,objection,6,1,24,35,87,230.0,108.0
+highway,Gujarat,Indore,compensation,6,0,14,51,62,145.0,93.0
+rail,Madhya Pradesh,Indore,objection,4,2,35,46,111,278.0,143.0
+urban_transit,Gujarat,Indore,possession,3,3,39,14,2,163.0,101.0
+highway,Madhya Pradesh,Ahmedabad,possession,1,3,34,38,5,163.0,104.0
+irrigation,Karnataka,Ahmedabad,objection,4,2,39,28,49,290.0,125.0
+highway,Madhya Pradesh,Nashik,compensation,4,3,22,46,62,195.0,121.0
+rail,Gujarat,Nashik,award,2,1,19,11,117,187.0,112.0
+urban_transit,Gujarat,Nagpur,notification,1,1,37,31,96,317.0,119.0
+highway,Madhya Pradesh,Nashik,possession,1,5,10,22,116,203.0,158.0
+irrigation,Madhya Pradesh,Satara,objection,6,1,26,51,48,245.0,104.0
+highway,Karnataka,Pune,possession,3,0,30,10,38,96.0,77.0
+highway,Gujarat,Satara,award,4,1,26,43,12,216.0,93.0
+rail,Maharashtra,Ahmedabad,award,1,2,15,32,11,226.0,96.0
+urban_transit,Gujarat,Indore,possession,3,1,3,49,93,112.0,105.0
+irrigation,Madhya Pradesh,Satara,possession,5,3,18,34,104,160.0,134.0
+highway,Madhya Pradesh,Ahmedabad,objection,1,0,10,37,66,153.0,63.0
+urban_transit,Gujarat,Nagpur,possession,3,1,35,11,53,118.0,94.0
+rail,Madhya Pradesh,Ahmedabad,verification,5,6,5,47,106,342.0,154.0
+highway,Gujarat,Ahmedabad,notification,4,0,25,10,98,299.0,105.0
+urban_transit,Madhya Pradesh,Satara,possession,5,3,17,42,7,146.0,95.0
+urban_transit,Karnataka,Indore,award,1,1,25,8,114,171.0,104.0
+rail,Maharashtra,Satara,notification,4,0,12,30,27,252.0,60.0
+highway,Gujarat,Nashik,objection,1,2,44,34,21,271.0,108.0
+urban_transit,Karnataka,Nashik,objection,5,1,12,22,65,191.0,79.0
+highway,Maharashtra,Ahmedabad,possession,5,3,25,14,29,138.0,97.0
+highway,Madhya Pradesh,Ahmedabad,possession,5,2,31,49,58,148.0,115.0
+irrigation,Gujarat,Indore,notification,5,1,10,19,61,274.0,81.0
+rail,Madhya Pradesh,Pune,objection,5,3,21,16,18,259.0,97.0
+irrigation,Karnataka,Pune,award,3,1,15,46,74,177.0,96.0
+highway,Maharashtra,Pune,objection,3,1,24,40,67,231.0,102.0
+urban_transit,Madhya Pradesh,Satara,objection,4,2,26,32,28,252.0,99.0
+highway,Maharashtra,Ahmedabad,compensation,1,2,45,45,92,235.0,152.0
+urban_transit,Madhya Pradesh,Satara,award,2,1,26,43,102,197.0,117.0
+irrigation,Karnataka,Nashik,award,3,2,19,35,72,220.0,116.0
+irrigation,Madhya Pradesh,Pune,possession,5,0,21,15,64,75.0,76.0
+rail,Madhya Pradesh,Satara,verification,1,0,12,33,23,213.0,57.0
+urban_transit,Maharashtra,Pune,award,3,2,43,32,113,233.0,139.0
+irrigation,Karnataka,Pune,compensation,3,3,45,5,86,209.0,134.0
+urban_transit,Gujarat,Nagpur,objection,2,1,24,32,70,240.0,106.0
+irrigation,Maharashtra,Nagpur,award,6,1,20,51,37,194.0,93.0
+highway,Maharashtra,Indore,notification,5,2,12,15,37,288.0,80.0
+irrigation,Gujarat,Nashik,compensation,3,1,38,40,112,210.0,144.0
+highway,Gujarat,Satara,possession,2,1,45,33,50,127.0,102.0
+irrigation,Maharashtra,Nashik,verification,5,0,3,45,84,257.0,99.0
+highway,Maharashtra,Satara,compensation,4,1,38,46,85,151.0,109.0
+rail,Gujarat,Indore,objection,6,1,17,15,26,195.0,67.0
+highway,Madhya Pradesh,Satara,notification,3,2,43,51,2,370.0,115.0
+irrigation,Madhya Pradesh,Pune,award,3,1,35,14,112,186.0,113.0
+rail,Madhya Pradesh,Indore,award,3,2,30,25,7,240.0,102.0
+highway,Madhya Pradesh,Ahmedabad,compensation,3,0,9,28,75,130.0,87.0
+urban_transit,Maharashtra,Nagpur,award,3,3,9,41,67,208.0,109.0
+urban_transit,Gujarat,Nashik,possession,4,2,19,20,114,117.0,115.0
+irrigation,Gujarat,Satara,compensation,4,0,43,18,2,154.0,77.0
+irrigation,Maharashtra,Satara,verification,2,2,9,5,33,231.0,68.0
+urban_transit,Madhya Pradesh,Nashik,objection,5,4,45,29,98,280.0,142.0
+rail,Maharashtra,Satara,compensation,5,0,38,44,74,171.0,112.0
+irrigation,Gujarat,Pune,objection,2,1,30,49,115,257.0,133.0
+urban_transit,Gujarat,Pune,possession,3,0,30,9,87,93.0,92.0
+irrigation,Gujarat,Pune,award,2,2,2,21,55,156.0,76.0
+urban_transit,Karnataka,Indore,possession,2,0,6,18,47,112.0,84.0
+irrigation,Gujarat,Ahmedabad,compensation,2,1,26,35,21,180.0,96.0
+irrigation,Maharashtra,Satara,award,3,2,17,16,89,184.0,102.0
+rail,Gujarat,Ahmedabad,compensation,6,1,42,43,69,169.0,112.0
+highway,Gujarat,Satara,award,5,1,42,4,47,207.0,99.0
+rail,Maharashtra,Indore,possession,5,2,20,4,47,147.0,103.0
+urban_transit,Maharashtra,Indore,objection,5,1,34,10,49,245.0,100.0
+rail,Karnataka,Ahmedabad,possession,2,0,43,15,29,109.0,82.0
+urban_transit,Karnataka,Nagpur,award,5,3,41,8,110,215.0,128.0
+irrigation,Karnataka,Pune,award,4,0,22,4,58,156.0,75.0
+irrigation,Gujarat,Ahmedabad,verification,4,0,36,27,18,274.0,87.0
+rail,Madhya Pradesh,Nashik,compensation,5,3,23,18,93,182.0,122.0
+rail,Maharashtra,Indore,possession,5,0,10,13,68,84.0,79.0
+rail,Madhya Pradesh,Satara,possession,4,1,41,35,18,174.0,112.0
+highway,Madhya Pradesh,Pune,possession,4,1,15,16,40,71.0,66.0
+irrigation,Madhya Pradesh,Indore,possession,5,1,25,9,53,112.0,89.0
+highway,Gujarat,Nashik,notification,2,1,8,22,45,282.0,79.0
+urban_transit,Gujarat,Ahmedabad,objection,3,1,45,43,33,242.0,99.0
+rail,Maharashtra,Nagpur,verification,3,2,34,35,19,296.0,100.0
+rail,Maharashtra,Nagpur,verification,4,2,39,5,55,262.0,95.0
+irrigation,Maharashtra,Ahmedabad,verification,4,0,4,49,25,233.0,68.0
+highway,Madhya Pradesh,Ahmedabad,notification,4,3,15,11,87,314.0,111.0
+rail,Madhya Pradesh,Indore,notification,1,0,19,4,71,269.0,80.0
+irrigation,Madhya Pradesh,Satara,compensation,3,0,44,20,28,170.0,94.0
+rail,Maharashtra,Satara,notification,6,3,25,34,23,355.0,111.0
+urban_transit,Maharashtra,Satara,objection,2,0,35,35,65,235.0,103.0
+rail,Karnataka,Indore,compensation,6,2,36,16,54,154.0,97.0
+rail,Madhya Pradesh,Indore,notification,5,4,33,5,92,350.0,132.0
+irrigation,Madhya Pradesh,Ahmedabad,award,4,3,10,25,56,178.0,89.0
+rail,Maharashtra,Indore,verification,6,1,6,5,90,226.0,83.0
+rail,Karnataka,Ahmedabad,possession,2,0,22,13,110,68.0,88.0
+urban_transit,Gujarat,Indore,award,4,1,42,21,29,209.0,96.0
+highway,Gujarat,Nashik,verification,5,1,28,4,97,242.0,97.0
+urban_transit,Karnataka,Nagpur,compensation,2,2,16,38,19,164.0,88.0
+irrigation,Gujarat,Indore,objection,1,3,35,21,105,299.0,148.0
+rail,Karnataka,Ahmedabad,award,6,1,14,41,28,168.0,75.0
+urban_transit,Madhya Pradesh,Indore,verification,4,1,29,44,26,320.0,112.0
+urban_transit,Madhya Pradesh,Satara,compensation,5,1,24,37,2,163.0,82.0
+rail,Gujarat,Indore,award,5,1,31,20,34,205.0,94.0
+irrigation,Maharashtra,Nashik,objection,5,1,45,51,38,251.0,106.0
+urban_transit,Karnataka,Indore,award,5,3,33,49,37,269.0,131.0
+rail,Karnataka,Nagpur,award,4,2,26,49,21,238.0,109.0
+irrigation,Karnataka,Satara,verification,1,1,13,49,106,265.0,114.0
+highway,Gujarat,Pune,award,3,0,34,21,74,172.0,92.0
+rail,Madhya Pradesh,Satara,verification,5,1,40,16,97,295.0,124.0
+irrigation,Maharashtra,Nagpur,compensation,5,1,26,47,91,189.0,126.0
+highway,Maharashtra,Ahmedabad,verification,2,2,11,44,110,261.0,114.0
+highway,Maharashtra,Satara,award,6,2,4,50,96,200.0,115.0
+highway,Gujarat,Indore,verification,3,0,39,42,53,281.0,105.0
+urban_transit,Gujarat,Pune,possession,3,2,24,38,104,152.0,131.0
+urban_transit,Karnataka,Ahmedabad,objection,6,3,40,15,96,285.0,139.0
+highway,Gujarat,Nagpur,verification,4,2,29,10,75,274.0,106.0
+rail,Maharashtra,Satara,compensation,3,3,39,16,26,217.0,117.0
+highway,Maharashtra,Nashik,objection,5,0,42,35,87,197.0,95.0
+urban_transit,Gujarat,Ahmedabad,notification,2,2,45,4,45,323.0,103.0
+highway,Maharashtra,Satara,notification,1,1,31,35,59,301.0,98.0
+highway,Madhya Pradesh,Ahmedabad,verification,5,1,17,49,84,279.0,113.0
+urban_transit,Maharashtra,Satara,award,6,4,13,15,24,219.0,98.0
+irrigation,Karnataka,Nagpur,objection,1,3,23,39,49,255.0,109.0
+rail,Gujarat,Indore,compensation,1,0,23,32,15,136.0,72.0
+irrigation,Karnataka,Satara,objection,4,2,13,39,80,231.0,106.0
+urban_transit,Maharashtra,Pune,notification,1,0,30,13,96,275.0,95.0
+urban_transit,Maharashtra,Ahmedabad,compensation,1,2,23,49,63,162.0,105.0
+urban_transit,Karnataka,Indore,notification,1,2,16,28,110,318.0,122.0
+irrigation,Madhya Pradesh,Indore,compensation,1,1,39,30,114,158.0,120.0
+irrigation,Madhya Pradesh,Pune,award,3,1,26,23,107,158.0,98.0
+irrigation,Maharashtra,Nashik,compensation,5,0,28,11,87,121.0,88.0
+rail,Maharashtra,Indore,verification,2,2,32,15,99,291.0,123.0
+rail,Karnataka,Pune,objection,4,0,6,43,86,181.0,82.0
+urban_transit,Karnataka,Nashik,possession,2,1,12,17,61,104.0,88.0
+urban_transit,Gujarat,Ahmedabad,compensation,5,2,30,38,0,209.0,104.0
+urban_transit,Karnataka,Pune,award,1,3,18,50,95,247.0,139.0
+highway,Maharashtra,Nashik,notification,1,3,37,42,51,368.0,130.0
+irrigation,Maharashtra,Satara,possession,1,3,11,17,45,124.0,94.0
+highway,Karnataka,Indore,verification,1,1,23,48,114,277.0,124.0
+highway,Madhya Pradesh,Nagpur,award,3,1,36,17,54,188.0,94.0
+irrigation,Karnataka,Ahmedabad,verification,1,0,4,48,3,228.0,58.0
+urban_transit,Maharashtra,Nagpur,compensation,2,1,15,38,16,157.0,82.0
+irrigation,Madhya Pradesh,Satara,verification,2,1,34,12,23,284.0,92.0
+irrigation,Madhya Pradesh,Indore,notification,1,2,20,29,117,307.0,120.0
+rail,Maharashtra,Nashik,possession,6,4,45,28,51,190.0,134.0
+urban_transit,Madhya Pradesh,Nashik,notification,5,5,27,5,116,373.0,151.0
+highway,Madhya Pradesh,Pune,verification,4,1,45,11,81,307.0,124.0
+highway,Madhya Pradesh,Pune,compensation,6,1,26,23,36,162.0,91.0
+rail,Madhya Pradesh,Satara,objection,1,4,20,20,31,266.0,106.0
+rail,Gujarat,Satara,objection,6,1,27,17,18,225.0,80.0
+highway,Gujarat,Indore,award,3,1,43,37,21,246.0,112.0
+irrigation,Karnataka,Pune,objection,2,1,34,23,99,239.0,116.0
+highway,Maharashtra,Ahmedabad,verification,3,3,44,9,28,318.0,113.0
+irrigation,Karnataka,Nashik,possession,5,1,38,11,32,142.0,98.0
+urban_transit,Maharashtra,Ahmedabad,notification,1,2,3,31,12,298.0,76.0
+rail,Gujarat,Nashik,verification,1,0,21,22,35,230.0,69.0
+rail,Maharashtra,Nagpur,notification,4,3,5,51,8,299.0,80.0
+rail,Madhya Pradesh,Nagpur,possession,4,5,37,32,81,206.0,153.0
+highway,Madhya Pradesh,Nashik,notification,1,2,25,9,18,306.0,83.0
+irrigation,Gujarat,Ahmedabad,objection,6,1,37,38,41,276.0,115.0
+rail,Maharashtra,Ahmedabad,possession,3,0,36,7,109,117.0,112.0
+highway,Karnataka,Indore,compensation,5,0,10,4,104,78.0,71.0
+urban_transit,Maharashtra,Ahmedabad,verification,6,4,24,6,71,300.0,118.0
+rail,Maharashtra,Ahmedabad,verification,2,1,5,37,70,242.0,88.0
+rail,Karnataka,Satara,compensation,3,0,32,19,52,139.0,86.0
+rail,Gujarat,Ahmedabad,compensation,5,0,23,14,6,117.0,58.0
+highway,Gujarat,Satara,possession,4,3,41,7,67,157.0,120.0
+irrigation,Gujarat,Nashik,possession,2,2,39,22,81,165.0,129.0
+highway,Gujarat,Nagpur,compensation,6,2,30,13,30,155.0,87.0
+irrigation,Madhya Pradesh,Pune,objection,6,3,35,12,116,256.0,132.0
+irrigation,Gujarat,Nashik,compensation,4,3,42,8,32,193.0,108.0
+irrigation,Karnataka,Satara,award,1,0,26,48,120,180.0,114.0
+rail,Maharashtra,Indore,award,3,2,20,5,111,186.0,110.0
+irrigation,Madhya Pradesh,Nashik,notification,4,2,19,12,79,313.0,107.0
+irrigation,Karnataka,Pune,notification,1,1,11,23,56,284.0,84.0
+rail,Karnataka,Ahmedabad,possession,5,2,40,38,43,156.0,114.0
+highway,Gujarat,Indore,award,1,5,8,7,90,220.0,120.0
+urban_transit,Gujarat,Satara,award,6,1,34,43,65,207.0,109.0
+irrigation,Maharashtra,Satara,verification,6,0,5,4,80,181.0,58.0
+rail,Madhya Pradesh,Indore,award,1,1,22,11,45,181.0,84.0
+highway,Gujarat,Nagpur,possession,3,3,38,26,41,195.0,130.0
+irrigation,Gujarat,Satara,award,5,0,14,31,64,176.0,89.0
+irrigation,Madhya Pradesh,Pune,compensation,1,0,24,23,82,114.0,84.0
+irrigation,Madhya Pradesh,Indore,objection,3,3,3,37,35,222.0,86.0
+highway,Maharashtra,Pune,verification,2,1,12,5,113,202.0,82.0
+irrigation,Maharashtra,Satara,compensation,4,2,18,16,9,166.0,83.0
+rail,Karnataka,Indore,award,6,2,28,13,32,200.0,91.0
+urban_transit,Maharashtra,Nashik,verification,5,0,41,23,9,277.0,85.0
+urban_transit,Karnataka,Nashik,verification,6,4,23,18,85,323.0,134.0
+urban_transit,Madhya Pradesh,Nashik,compensation,3,3,11,35,112,185.0,130.0
+highway,Maharashtra,Nashik,verification,6,0,32,41,36,284.0,99.0
+urban_transit,Madhya Pradesh,Nashik,award,4,1,37,19,2,190.0,77.0
+highway,Gujarat,Satara,verification,6,2,9,5,27,271.0,84.0
+urban_transit,Gujarat,Nagpur,award,6,1,3,17,77,151.0,80.0
+irrigation,Karnataka,Indore,notification,5,1,22,24,73,325.0,111.0
+urban_transit,Madhya Pradesh,Ahmedabad,notification,2,2,19,10,90,292.0,101.0
+highway,Madhya Pradesh,Nagpur,compensation,6,2,21,16,87,157.0,107.0
+highway,Karnataka,Nashik,objection,6,2,24,24,29,247.0,95.0
+irrigation,Madhya Pradesh,Satara,notification,5,1,21,34,90,297.0,105.0
+urban_transit,Gujarat,Satara,award,1,1,20,30,17,177.0,75.0
+highway,Maharashtra,Nagpur,notification,1,1,37,16,11,325.0,90.0
+irrigation,Maharashtra,Satara,possession,4,0,29,50,20,117.0,85.0
+irrigation,Karnataka,Pune,objection,3,0,17,21,98,206.0,96.0
+rail,Madhya Pradesh,Ahmedabad,notification,3,2,20,6,6,301.0,75.0
+rail,Gujarat,Ahmedabad,notification,2,1,32,43,53,326.0,108.0
+rail,Gujarat,Satara,notification,1,1,26,43,96,313.0,117.0
+rail,Gujarat,Ahmedabad,objection,3,2,25,34,12,266.0,99.0
+rail,Madhya Pradesh,Nashik,verification,3,0,27,46,10,265.0,81.0
+urban_transit,Maharashtra,Indore,objection,6,2,20,51,65,267.0,120.0
+highway,Maharashtra,Ahmedabad,possession,6,1,15,28,36,84.0,72.0
+urban_transit,Maharashtra,Nashik,possession,2,1,9,28,44,95.0,78.0
+urban_transit,Madhya Pradesh,Nagpur,notification,2,2,28,47,117,366.0,150.0
+urban_transit,Gujarat,Satara,objection,4,0,27,38,70,240.0,106.0
+urban_transit,Gujarat,Nashik,award,3,1,16,26,14,183.0,75.0
+highway,Madhya Pradesh,Indore,objection,3,3,2,27,35,219.0,83.0
+urban_transit,Maharashtra,Nashik,compensation,6,2,43,48,100,210.0,143.0
+highway,Madhya Pradesh,Indore,possession,1,4,7,39,101,162.0,134.0
+highway,Gujarat,Ahmedabad,compensation,5,3,13,49,108,207.0,141.0
+highway,Karnataka,Ahmedabad,verification,5,3,14,18,75,305.0,120.0
+urban_transit,Maharashtra,Nashik,compensation,3,0,10,21,38,109.0,64.0
+highway,Madhya Pradesh,Ahmedabad,objection,6,2,26,31,36,247.0,99.0
+irrigation,Madhya Pradesh,Nashik,possession,3,2,28,12,87,121.0,108.0
+irrigation,Maharashtra,Satara,compensation,6,1,6,18,39,116.0,68.0
+rail,Gujarat,Nashik,award,1,0,22,9,88,143.0,80.0
+urban_transit,Karnataka,Pune,possession,5,1,30,37,14,137.0,92.0
+irrigation,Maharashtra,Pune,compensation,2,0,10,29,59,112.0,74.0
+highway,Karnataka,Satara,verification,5,2,39,45,25,308.0,110.0
+rail,Gujarat,Indore,verification,2,0,3,9,100,209.0,78.0
+urban_transit,Maharashtra,Satara,notification,4,2,39,28,11,305.0,85.0
+highway,Karnataka,Ahmedabad,award,5,0,12,21,107,138.0,85.0
+rail,Maharashtra,Indore,objection,4,2,15,30,28,258.0,99.0
+urban_transit,Karnataka,Ahmedabad,compensation,4,3,14,19,48,157.0,94.0
+irrigation,Madhya Pradesh,Satara,compensation,3,0,5,47,5,97.0,50.0
+highway,Madhya Pradesh,Nashik,compensation,1,2,31,22,100,146.0,109.0
+irrigation,Madhya Pradesh,Nagpur,compensation,6,1,8,37,76,151.0,100.0
+urban_transit,Maharashtra,Nagpur,objection,1,1,30,22,38,239.0,94.0
+highway,Madhya Pradesh,Ahmedabad,notification,5,1,15,8,67,294.0,91.0
+irrigation,Maharashtra,Nashik,compensation,4,1,18,18,12,144.0,73.0
+irrigation,Madhya Pradesh,Pune,objection,4,2,38,13,65,236.0,104.0
+highway,Maharashtra,Indore,possession,3,1,13,40,79,105.0,98.0
+urban_transit,Karnataka,Satara,notification,4,2,11,26,74,331.0,114.0
+rail,Madhya Pradesh,Ahmedabad,compensation,3,5,20,31,104,225.0,150.0
+highway,Karnataka,Ahmedabad,possession,4,4,14,15,6,169.0,102.0
+rail,Karnataka,Indore,objection,4,1,38,4,23,243.0,90.0
+urban_transit,Karnataka,Satara,verification,2,0,18,7,29,239.0,69.0
+irrigation,Gujarat,Satara,award,2,3,35,24,79,238.0,129.0
+rail,Karnataka,Indore,objection,3,1,16,39,10,222.0,77.0
+highway,Madhya Pradesh,Nagpur,compensation,3,4,34,13,77,226.0,139.0
+highway,Madhya Pradesh,Satara,notification,2,0,26,6,59,266.0,76.0
+highway,Maharashtra,Nagpur,possession,6,0,45,26,117,115.0,118.0
+rail,Maharashtra,Pune,objection,6,1,11,11,92,222.0,101.0
+irrigation,Madhya Pradesh,Ahmedabad,compensation,6,1,5,6,80,141.0,92.0
+rail,Karnataka,Ahmedabad,compensation,1,2,15,7,67,153.0,96.0
+rail,Maharashtra,Nagpur,verification,6,4,3,22,9,282.0,87.0
+urban_transit,Madhya Pradesh,Indore,objection,2,1,13,6,74,193.0,81.0
+highway,Maharashtra,Nashik,compensation,3,1,30,47,95,157.0,114.0
+urban_transit,Madhya Pradesh,Satara,verification,1,2,23,49,117,294.0,134.0
+urban_transit,Gujarat,Satara,objection,6,2,35,39,72,281.0,130.0
+highway,Madhya Pradesh,Ahmedabad,objection,5,2,10,36,11,221.0,77.0
+irrigation,Madhya Pradesh,Pune,award,2,1,37,40,96,233.0,132.0
+highway,Karnataka,Ahmedabad,award,3,0,21,36,113,186.0,112.0
+irrigation,Gujarat,Pune,compensation,1,2,34,34,4,178.0,92.0
+highway,Karnataka,Pune,award,3,1,23,18,112,193.0,114.0
+urban_transit,Gujarat,Ahmedabad,award,1,0,10,17,103,128.0,78.0
+highway,Madhya Pradesh,Ahmedabad,award,1,1,13,46,111,192.0,115.0
+rail,Maharashtra,Indore,notification,2,3,14,7,7,301.0,76.0
+urban_transit,Maharashtra,Nagpur,award,3,2,39,25,22,227.0,103.0
+irrigation,Madhya Pradesh,Indore,compensation,4,3,10,44,116,185.0,133.0
+urban_transit,Karnataka,Indore,notification,2,2,10,46,55,309.0,100.0
+irrigation,Madhya Pradesh,Satara,verification,1,2,18,4,115,274.0,117.0
+highway,Karnataka,Indore,notification,4,1,2,9,53,239.0,59.0
+rail,Karnataka,Ahmedabad,objection,2,1,29,38,89,239.0,114.0
+highway,Maharashtra,Nagpur,possession,1,1,11,5,96,61.0,79.0
+highway,Gujarat,Ahmedabad,notification,2,1,38,46,66,328.0,115.0
+urban_transit,Gujarat,Ahmedabad,notification,2,2,22,45,118,347.0,140.0
+highway,Karnataka,Indore,award,3,1,26,22,32,176.0,80.0
+highway,Gujarat,Pune,notification,1,1,28,24,47,311.0,97.0
+rail,Karnataka,Nashik,notification,5,1,29,17,42,286.0,82.0
+rail,Madhya Pradesh,Indore,objection,3,0,17,50,79,213.0,97.0
+rail,Karnataka,Ahmedabad,notification,6,1,26,26,90,305.0,109.0
+rail,Maharashtra,Pune,possession,4,2,37,34,17,174.0,112.0
+highway,Madhya Pradesh,Nashik,notification,6,1,35,31,54,330.0,109.0
+highway,Madhya Pradesh,Indore,compensation,2,1,31,14,104,158.0,113.0
+irrigation,Gujarat,Ahmedabad,objection,1,1,44,12,36,237.0,94.0
+rail,Maharashtra,Pune,objection,6,1,6,50,15,208.0,72.0
+highway,Karnataka,Indore,objection,6,1,14,18,9,207.0,66.0
+urban_transit,Karnataka,Indore,verification,1,3,34,6,76,294.0,117.0
+rail,Maharashtra,Nashik,compensation,5,1,26,18,39,166.0,94.0
+highway,Madhya Pradesh,Nagpur,compensation,5,2,25,35,98,171.0,120.0
+highway,Gujarat,Ahmedabad,verification,3,1,41,51,73,329.0,136.0
+urban_transit,Gujarat,Indore,compensation,1,1,11,44,6,155.0,78.0
+rail,Karnataka,Indore,award,3,1,22,39,101,195.0,114.0
+highway,Madhya Pradesh,Satara,compensation,3,3,5,6,37,143.0,81.0
+irrigation,Karnataka,Satara,possession,6,2,45,46,28,158.0,111.0
+irrigation,Karnataka,Nagpur,possession,3,2,23,14,50,132.0,99.0
+irrigation,Madhya Pradesh,Ahmedabad,verification,2,1,25,34,102,291.0,124.0
+urban_transit,Maharashtra,Pune,notification,6,2,30,49,32,316.0,98.0
+irrigation,Gujarat,Nashik,notification,2,2,43,47,13,350.0,109.0
+highway,Gujarat,Nagpur,objection,4,2,18,14,101,231.0,111.0
+irrigation,Gujarat,Satara,notification,6,0,15,28,100,262.0,90.0
+irrigation,Karnataka,Indore,notification,4,3,27,48,78,368.0,139.0
+rail,Gujarat,Pune,notification,3,1,26,43,29,326.0,99.0
+highway,Gujarat,Nashik,possession,4,1,2,8,25,61.0,53.0
+irrigation,Madhya Pradesh,Satara,compensation,5,4,21,26,104,201.0,137.0
+rail,Karnataka,Ahmedabad,objection,5,1,42,50,4,249.0,93.0
+highway,Madhya Pradesh,Nashik,notification,2,4,17,18,75,321.0,112.0
+rail,Madhya Pradesh,Ahmedabad,objection,3,1,18,50,24,232.0,88.0
+highway,Maharashtra,Ahmedabad,objection,3,1,6,13,118,188.0,94.0
+highway,Gujarat,Indore,verification,2,2,11,42,73,288.0,113.0
+urban_transit,Karnataka,Nagpur,compensation,2,0,25,4,103,131.0,97.0
+rail,Karnataka,Indore,notification,5,4,11,29,81,333.0,120.0
+rail,Madhya Pradesh,Pune,compensation,2,1,21,8,69,156.0,98.0
+urban_transit,Gujarat,Satara,notification,3,2,16,14,16,296.0,77.0
+irrigation,Karnataka,Satara,objection,1,0,20,10,63,236.0,97.0
+rail,Maharashtra,Indore,compensation,2,2,17,7,55,145.0,88.0
+irrigation,Karnataka,Indore,objection,3,0,9,34,96,204.0,96.0
+urban_transit,Gujarat,Nagpur,possession,2,1,42,10,30,136.0,95.0
+rail,Maharashtra,Nashik,compensation,6,2,24,24,97,180.0,122.0
+highway,Gujarat,Pune,objection,5,1,22,10,6,196.0,61.0
+irrigation,Gujarat,Indore,objection,1,2,11,41,107,230.0,115.0
+highway,Madhya Pradesh,Satara,notification,5,0,38,46,108,325.0,127.0
+rail,Madhya Pradesh,Ahmedabad,compensation,4,2,18,43,90,188.0,125.0
+urban_transit,Madhya Pradesh,Satara,objection,2,0,30,6,84,198.0,88.0
+rail,Madhya Pradesh,Nashik,notification,5,2,6,20,58,324.0,103.0
+rail,Gujarat,Indore,award,5,3,12,34,49,199.0,98.0
+rail,Karnataka,Indore,objection,5,3,20,10,36,232.0,90.0
+highway,Gujarat,Indore,notification,5,1,3,51,37,273.0,75.0
+irrigation,Karnataka,Nagpur,verification,3,0,37,30,18,270.0,85.0
+irrigation,Gujarat,Nashik,objection,6,3,11,49,69,273.0,124.0
+irrigation,Gujarat,Indore,compensation,2,0,8,50,28,111.0,65.0
+rail,Gujarat,Satara,possession,3,6,20,48,118,207.0,167.0
+rail,Karnataka,Pune,verification,4,1,24,27,72,252.0,95.0
+urban_transit,Maharashtra,Nashik,award,4,0,45,41,109,221.0,131.0
+highway,Maharashtra,Pune,notification,6,2,39,18,7,340.0,98.0
+urban_transit,Madhya Pradesh,Ahmedabad,verification,6,1,44,13,41,251.0,85.0
+irrigation,Gujarat,Ahmedabad,possession,5,1,40,16,118,110.0,115.0
+highway,Madhya Pradesh,Nashik,objection,2,1,17,16,37,208.0,77.0
+highway,Maharashtra,Nashik,notification,5,2,34,32,101,311.0,119.0
+rail,Gujarat,Satara,award,1,1,6,51,34,177.0,81.0
+rail,Madhya Pradesh,Nashik,possession,1,1,22,17,90,115.0,104.0
+rail,Karnataka,Ahmedabad,compensation,4,0,3,24,45,125.0,73.0
+irrigation,Madhya Pradesh,Nashik,objection,4,1,3,39,23,222.0,79.0
+urban_transit,Madhya Pradesh,Nagpur,possession,3,1,10,22,85,105.0,97.0
+irrigation,Gujarat,Ahmedabad,objection,5,1,40,15,46,262.0,108.0
+rail,Madhya Pradesh,Nashik,award,1,2,26,42,88,222.0,124.0
+irrigation,Gujarat,Indore,objection,6,2,28,29,11,270.0,101.0
+irrigation,Gujarat,Pune,compensation,3,0,35,38,58,141.0,92.0
+highway,Gujarat,Satara,compensation,4,2,18,26,35,146.0,85.0
+urban_transit,Maharashtra,Ahmedabad,compensation,4,1,12,34,21,144.0,77.0
+rail,Gujarat,Pune,verification,5,2,45,39,96,321.0,141.0
+rail,Maharashtra,Indore,award,5,0,12,14,8,169.0,63.0
+rail,Maharashtra,Pune,award,2,1,32,30,61,198.0,102.0
+highway,Madhya Pradesh,Ahmedabad,award,3,1,25,39,66,200.0,104.0
+irrigation,Madhya Pradesh,Nashik,possession,2,1,21,37,52,114.0,93.0
+irrigation,Karnataka,Nashik,award,1,0,20,14,108,143.0,88.0
+highway,Madhya Pradesh,Pune,compensation,4,1,40,21,81,169.0,113.0
+urban_transit,Madhya Pradesh,Nashik,objection,4,4,11,23,59,243.0,105.0
+urban_transit,Karnataka,Ahmedabad,objection,1,2,19,14,47,233.0,93.0
+highway,Gujarat,Ahmedabad,compensation,2,2,24,29,28,173.0,96.0
+highway,Gujarat,Pune,verification,5,3,6,25,9,280.0,85.0
+urban_transit,Gujarat,Pune,notification,2,1,19,47,73,311.0,107.0
+rail,Karnataka,Nagpur,verification,4,2,41,40,106,318.0,143.0
+rail,Gujarat,Nashik,notification,2,0,29,39,60,326.0,109.0
+irrigation,Karnataka,Nashik,award,1,2,6,34,58,205.0,102.0
+irrigation,Maharashtra,Nagpur,award,1,5,6,21,30,256.0,117.0
+irrigation,Madhya Pradesh,Nagpur,award,2,4,43,8,4,269.0,117.0
+urban_transit,Maharashtra,Indore,possession,3,3,10,43,14,140.0,94.0
+urban_transit,Maharashtra,Pune,possession,1,1,35,32,58,130.0,104.0
+rail,Karnataka,Nashik,possession,1,1,33,44,62,130.0,107.0
+urban_transit,Gujarat,Ahmedabad,award,3,2,41,40,67,242.0,128.0
+irrigation,Maharashtra,Nashik,possession,4,2,36,47,5,152.0,99.0
+highway,Karnataka,Pune,compensation,4,2,19,14,16,147.0,77.0
+rail,Gujarat,Nashik,compensation,1,0,11,8,41,119.0,68.0
+rail,Maharashtra,Pune,verification,3,3,12,45,118,295.0,134.0
+rail,Maharashtra,Pune,verification,1,1,19,9,92,259.0,102.0
+highway,Maharashtra,Satara,possession,2,1,34,42,74,154.0,122.0
+highway,Gujarat,Pune,notification,6,1,40,5,53,310.0,97.0
+rail,Gujarat,Indore,award,5,1,34,20,74,203.0,108.0
+urban_transit,Gujarat,Nagpur,notification,5,1,28,25,56,316.0,102.0
+rail,Madhya Pradesh,Ahmedabad,objection,2,0,30,40,99,205.0,101.0
+rail,Maharashtra,Nashik,objection,5,1,18,50,49,247.0,103.0
+highway,Maharashtra,Indore,compensation,1,2,6,8,34,143.0,78.0
+urban_transit,Maharashtra,Pune,verification,2,2,28,51,60,296.0,116.0
+highway,Madhya Pradesh,Satara,objection,6,3,42,41,2,290.0,112.0
+irrigation,Maharashtra,Indore,verification,2,1,6,23,95,239.0,94.0
+urban_transit,Gujarat,Nashik,award,1,3,43,41,12,300.0,137.0
+irrigation,Madhya Pradesh,Nashik,award,6,2,44,13,98,232.0,131.0
+irrigation,Gujarat,Ahmedabad,award,2,2,25,45,79,229.0,125.0
+rail,Maharashtra,Nashik,objection,3,0,4,21,65,180.0,71.0
+irrigation,Madhya Pradesh,Nagpur,possession,1,2,33,16,2,145.0,90.0
+highway,Maharashtra,Satara,verification,3,1,17,22,61,261.0,93.0
+irrigation,Madhya Pradesh,Indore,possession,2,0,6,10,75,71.0,74.0
+irrigation,Gujarat,Ahmedabad,notification,4,2,10,11,97,280.0,97.0
+urban_transit,Maharashtra,Ahmedabad,possession,4,1,39,49,1,124.0,85.0
+highway,Gujarat,Pune,objection,6,1,9,29,11,203.0,66.0
+irrigation,Madhya Pradesh,Nashik,award,2,2,19,24,82,209.0,113.0
+highway,Madhya Pradesh,Nagpur,compensation,2,2,16,16,42,157.0,90.0
+irrigation,Gujarat,Pune,objection,5,1,36,23,109,253.0,126.0
+irrigation,Karnataka,Pune,objection,2,1,30,14,65,225.0,96.0
+highway,Gujarat,Satara,objection,2,0,34,15,25,199.0,70.0
+rail,Karnataka,Nashik,award,4,2,6,11,72,174.0,89.0
+rail,Karnataka,Pune,notification,2,2,9,37,91,323.0,117.0
+irrigation,Madhya Pradesh,Ahmedabad,possession,1,1,39,9,77,129.0,108.0
+irrigation,Maharashtra,Nagpur,award,3,1,28,48,6,210.0,90.0
+irrigation,Madhya Pradesh,Nashik,compensation,4,1,37,26,74,166.0,109.0
+highway,Maharashtra,Pune,possession,2,1,11,8,55,98.0,82.0
+highway,Madhya Pradesh,Indore,objection,4,1,39,22,29,232.0,89.0
+highway,Maharashtra,Indore,possession,4,4,6,8,45,153.0,106.0
+urban_transit,Maharashtra,Ahmedabad,possession,6,0,28,13,51,86.0,77.0
+urban_transit,Gujarat,Indore,objection,1,0,4,10,119,174.0,86.0
+highway,Gujarat,Pune,possession,4,1,36,51,3,155.0,99.0
+highway,Karnataka,Ahmedabad,verification,4,2,34,40,38,309.0,114.0
+highway,Karnataka,Nashik,award,3,3,32,33,109,229.0,136.0
+irrigation,Maharashtra,Ahmedabad,compensation,6,2,40,48,39,189.0,112.0
+rail,Maharashtra,Nagpur,verification,4,0,6,11,1,199.0,40.0
+urban_transit,Karnataka,Nashik,possession,4,0,39,16,85,110.0,102.0
+urban_transit,Maharashtra,Ahmedabad,notification,2,1,41,16,47,323.0,103.0
+irrigation,Gujarat,Ahmedabad,objection,1,1,17,8,104,217.0,103.0
+rail,Maharashtra,Satara,compensation,1,1,19,29,50,155.0,93.0
+rail,Gujarat,Satara,verification,4,1,12,8,2,252.0,66.0
+irrigation,Madhya Pradesh,Satara,notification,1,2,2,29,116,288.0,108.0
+urban_transit,Karnataka,Nagpur,verification,6,2,41,47,25,334.0,123.0
+rail,Gujarat,Nagpur,award,1,1,12,38,78,179.0,97.0
+highway,Madhya Pradesh,Ahmedabad,verification,1,6,28,4,7,355.0,123.0
+urban_transit,Maharashtra,Ahmedabad,award,5,1,3,26,85,182.0,98.0
+irrigation,Maharashtra,Satara,verification,4,1,22,5,10,244.0,66.0
+highway,Gujarat,Indore,compensation,3,1,21,29,19,128.0,71.0
+irrigation,Gujarat,Nagpur,objection,2,2,42,47,33,274.0,115.0
+urban_transit,Madhya Pradesh,Satara,possession,6,0,8,5,80,65.0,73.0
+irrigation,Madhya Pradesh,Ahmedabad,objection,2,2,6,23,48,224.0,88.0
+highway,Gujarat,Satara,award,3,2,15,37,71,200.0,106.0
+rail,Madhya Pradesh,Pune,possession,5,1,26,8,31,106.0,79.0
+urban_transit,Maharashtra,Ahmedabad,compensation,1,1,13,26,34,123.0,72.0
+highway,Karnataka,Pune,objection,1,4,6,46,80,276.0,129.0
+highway,Maharashtra,Pune,notification,6,3,14,13,61,343.0,115.0
+highway,Gujarat,Ahmedabad,verification,5,1,27,18,35,241.0,77.0
+rail,Karnataka,Nashik,award,2,0,36,34,20,195.0,86.0
+rail,Madhya Pradesh,Nashik,notification,6,1,15,47,13,323.0,91.0
+rail,Karnataka,Nashik,verification,4,2,38,37,26,292.0,102.0
+highway,Maharashtra,Pune,notification,5,1,32,13,89,314.0,111.0
+highway,Gujarat,Nagpur,compensation,2,0,41,5,62,145.0,92.0
+urban_transit,Maharashtra,Nashik,award,2,3,41,42,93,285.0,158.0
+highway,Madhya Pradesh,Nashik,award,2,1,44,40,2,237.0,102.0
+urban_transit,Gujarat,Satara,compensation,6,1,6,14,60,151.0,91.0
+irrigation,Maharashtra,Pune,notification,2,3,29,21,105,358.0,140.0
+highway,Karnataka,Nagpur,objection,6,1,5,29,112,191.0,95.0
+irrigation,Madhya Pradesh,Nashik,notification,6,3,22,42,100,340.0,132.0
+rail,Karnataka,Ahmedabad,notification,5,1,28,27,15,319.0,89.0
+rail,Karnataka,Satara,award,2,1,21,25,69,206.0,106.0
+irrigation,Maharashtra,Satara,objection,1,1,10,15,106,192.0,92.0
+highway,Maharashtra,Nagpur,notification,5,3,44,44,20,374.0,123.0
+rail,Madhya Pradesh,Satara,possession,4,3,18,24,8,141.0,91.0
+urban_transit,Maharashtra,Ahmedabad,compensation,6,4,26,17,56,229.0,132.0
+highway,Gujarat,Satara,objection,5,2,28,39,107,273.0,137.0
+urban_transit,Karnataka,Nashik,possession,3,0,5,19,1,61.0,45.0
+irrigation,Madhya Pradesh,Pune,possession,1,0,28,21,36,93.0,76.0
+rail,Madhya Pradesh,Pune,notification,4,1,16,15,99,275.0,95.0
+urban_transit,Maharashtra,Indore,compensation,2,1,8,43,89,144.0,101.0
+rail,Maharashtra,Ahmedabad,objection,5,0,2,32,62,193.0,77.0
+rail,Madhya Pradesh,Indore,compensation,6,3,2,6,117,187.0,127.0
+urban_transit,Madhya Pradesh,Nashik,objection,5,2,31,35,109,276.0,139.0
+urban_transit,Maharashtra,Nagpur,verification,6,2,22,43,77,283.0,114.0
+urban_transit,Madhya Pradesh,Indore,verification,4,1,39,7,37,257.0,85.0
+urban_transit,Madhya Pradesh,Pune,verification,2,1,8,36,10,257.0,74.0
+urban_transit,Karnataka,Satara,possession,6,2,2,23,48,115.0,89.0
+urban_transit,Maharashtra,Indore,objection,2,2,4,41,67,213.0,92.0
+urban_transit,Madhya Pradesh,Nashik,notification,1,1,6,11,36,265.0,66.0
+highway,Madhya Pradesh,Nashik,award,4,1,25,25,9,185.0,76.0
+urban_transit,Maharashtra,Ahmedabad,objection,6,4,27,45,31,289.0,121.0
+highway,Maharashtra,Pune,award,3,1,42,18,86,207.0,115.0
+irrigation,Gujarat,Ahmedabad,compensation,6,2,16,5,27,136.0,74.0
+urban_transit,Maharashtra,Nagpur,award,5,1,36,36,9,225.0,97.0
+irrigation,Maharashtra,Nashik,verification,2,1,6,37,71,258.0,96.0
+highway,Maharashtra,Nashik,verification,6,2,4,50,27,247.0,78.0
+rail,Maharashtra,Nashik,verification,6,1,22,20,58,268.0,96.0
+rail,Gujarat,Nagpur,possession,3,2,26,35,49,181.0,124.0
+rail,Karnataka,Indore,verification,4,1,16,51,103,261.0,112.0
+urban_transit,Maharashtra,Ahmedabad,possession,2,0,26,31,73,115.0,100.0
+irrigation,Madhya Pradesh,Nashik,possession,2,1,45,45,103,168.0,141.0
+irrigation,Madhya Pradesh,Pune,compensation,6,2,29,4,91,133.0,97.0
+irrigation,Gujarat,Pune,award,5,3,5,22,84,177.0,98.0
+highway,Gujarat,Pune,objection,3,2,15,51,48,289.0,123.0
+urban_transit,Gujarat,Nashik,compensation,3,2,39,44,43,192.0,114.0
+highway,Karnataka,Ahmedabad,compensation,3,0,34,5,32,123.0,70.0
+irrigation,Karnataka,Nagpur,award,6,1,44,4,32,213.0,97.0
+highway,Madhya Pradesh,Pune,objection,6,1,9,44,119,226.0,116.0
+highway,Madhya Pradesh,Ahmedabad,objection,2,1,30,31,115,228.0,117.0
+highway,Gujarat,Pune,notification,5,3,38,41,56,373.0,134.0
+highway,Maharashtra,Indore,award,5,1,2,16,46,137.0,62.0
+urban_transit,Maharashtra,Indore,verification,6,3,8,20,84,265.0,104.0
+irrigation,Maharashtra,Nashik,verification,5,1,10,8,10,243.0,64.0
+highway,Gujarat,Ahmedabad,objection,6,2,30,8,119,244.0,125.0
+rail,Madhya Pradesh,Indore,notification,5,1,27,49,44,317.0,101.0
+rail,Gujarat,Indore,possession,3,1,32,34,1,118.0,79.0
+rail,Maharashtra,Nashik,verification,4,2,15,36,52,276.0,100.0
+urban_transit,Gujarat,Ahmedabad,possession,1,0,10,14,104,64.0,82.0
+irrigation,Karnataka,Nashik,verification,5,1,15,21,114,225.0,95.0
+urban_transit,Karnataka,Nashik,verification,5,4,30,13,114,327.0,147.0
+highway,Gujarat,Nagpur,compensation,5,0,39,32,38,157.0,92.0
+irrigation,Maharashtra,Ahmedabad,compensation,6,1,37,47,117,191.0,138.0
+rail,Gujarat,Satara,objection,1,2,23,29,51,241.0,101.0
+highway,Gujarat,Indore,notification,1,1,37,6,5,299.0,76.0
+highway,Karnataka,Satara,verification,5,0,42,46,92,276.0,117.0
+irrigation,Madhya Pradesh,Pune,notification,2,0,10,4,104,273.0,92.0
+urban_transit,Gujarat,Indore,possession,1,0,22,5,82,87.0,86.0
+irrigation,Gujarat,Nagpur,notification,6,1,19,35,56,294.0,92.0
+highway,Maharashtra,Ahmedabad,notification,6,0,22,14,16,285.0,70.0
+irrigation,Madhya Pradesh,Indore,award,5,1,34,44,92,229.0,129.0
+rail,Madhya Pradesh,Pune,notification,2,2,2,15,32,295.0,80.0
+irrigation,Madhya Pradesh,Ahmedabad,award,2,2,42,40,37,259.0,125.0
+highway,Madhya Pradesh,Nashik,award,3,1,34,11,66,225.0,114.0
+highway,Gujarat,Ahmedabad,award,4,2,35,7,71,210.0,110.0
+urban_transit,Gujarat,Indore,verification,1,1,35,31,40,292.0,104.0
+urban_transit,Gujarat,Indore,notification,4,2,22,33,47,323.0,103.0
+highway,Maharashtra,Ahmedabad,compensation,2,2,42,44,7,206.0,108.0
+irrigation,Madhya Pradesh,Pune,award,5,2,11,30,105,207.0,119.0
+highway,Gujarat,Ahmedabad,verification,6,0,37,43,45,256.0,90.0
+irrigation,Madhya Pradesh,Nagpur,compensation,6,2,37,6,104,168.0,119.0
+urban_transit,Karnataka,Indore,verification,6,2,22,16,53,271.0,96.0
+urban_transit,Gujarat,Ahmedabad,compensation,4,1,23,20,25,153.0,83.0
+urban_transit,Madhya Pradesh,Nagpur,objection,1,4,37,38,64,324.0,149.0
+highway,Karnataka,Satara,objection,6,0,16,30,40,227.0,87.0
+irrigation,Madhya Pradesh,Satara,compensation,6,2,7,5,96,125.0,92.0
+highway,Madhya Pradesh,Nashik,award,3,0,26,6,16,169.0,67.0
+urban_transit,Madhya Pradesh,Nagpur,possession,2,2,26,32,37,143.0,103.0
+rail,Maharashtra,Indore,possession,3,1,20,43,16,142.0,94.0
+urban_transit,Gujarat,Pune,verification,1,1,7,31,76,253.0,94.0
+rail,Karnataka,Nagpur,award,1,3,11,50,88,215.0,121.0
+irrigation,Madhya Pradesh,Nashik,notification,6,2,35,12,113,322.0,125.0
+urban_transit,Maharashtra,Nagpur,notification,4,0,43,19,75,301.0,102.0
+rail,Gujarat,Indore,award,6,2,7,27,112,175.0,106.0
+urban_transit,Maharashtra,Satara,award,2,1,34,14,43,205.0,97.0
+highway,Gujarat,Indore,possession,6,2,34,29,71,155.0,121.0
+rail,Gujarat,Nashik,notification,6,3,32,36,93,365.0,142.0
+urban_transit,Gujarat,Satara,award,5,1,11,4,87,169.0,91.0
+highway,Karnataka,Ahmedabad,possession,1,1,18,6,116,84.0,97.0
+rail,Maharashtra,Nagpur,notification,2,0,11,39,43,259.0,69.0
+irrigation,Gujarat,Indore,award,5,2,23,23,112,212.0,125.0
+irrigation,Madhya Pradesh,Indore,notification,1,2,37,38,21,337.0,104.0
+irrigation,Maharashtra,Pune,award,4,4,15,42,47,252.0,124.0
+urban_transit,Maharashtra,Ahmedabad,objection,2,1,7,19,82,210.0,92.0
+rail,Karnataka,Ahmedabad,possession,5,1,20,45,115,110.0,114.0
+urban_transit,Madhya Pradesh,Nashik,objection,2,0,37,42,27,263.0,103.0
+rail,Maharashtra,Nashik,possession,2,1,3,47,32,113.0,84.0
+irrigation,Karnataka,Pune,notification,3,1,22,5,53,276.0,79.0
+urban_transit,Gujarat,Ahmedabad,possession,4,1,38,4,6,132.0,84.0
+urban_transit,Maharashtra,Nagpur,verification,6,4,5,9,36,273.0,90.0
+rail,Maharashtra,Nagpur,notification,1,0,36,19,40,298.0,87.0
+rail,Gujarat,Nagpur,award,5,3,14,17,103,237.0,132.0
+irrigation,Karnataka,Satara,notification,6,1,40,41,109,338.0,135.0
+highway,Madhya Pradesh,Nagpur,possession,3,2,20,16,64,113.0,95.0
+highway,Gujarat,Pune,verification,2,0,25,13,72,240.0,86.0
+rail,Gujarat,Nagpur,award,1,2,41,11,30,230.0,106.0
+urban_transit,Gujarat,Nashik,objection,5,3,26,13,79,260.0,119.0
+highway,Gujarat,Ahmedabad,compensation,3,2,13,31,41,153.0,90.0
+rail,Madhya Pradesh,Ahmedabad,possession,2,3,44,38,76,198.0,147.0
+urban_transit,Maharashtra,Pune,objection,3,1,8,20,13,206.0,67.0
+highway,Karnataka,Nashik,compensation,4,2,15,17,79,174.0,111.0
+rail,Gujarat,Nashik,award,4,1,38,15,21,177.0,78.0
+irrigation,Maharashtra,Nagpur,award,1,0,30,31,60,193.0,98.0
+rail,Madhya Pradesh,Ahmedabad,objection,1,2,36,24,85,256.0,121.0
+highway,Gujarat,Indore,award,3,0,38,27,6,186.0,76.0
+urban_transit,Maharashtra,Indore,notification,4,3,41,43,20,358.0,116.0
+highway,Gujarat,Nashik,possession,4,3,36,15,101,132.0,121.0
+urban_transit,Madhya Pradesh,Nashik,compensation,4,2,2,38,30,164.0,90.0
+urban_transit,Gujarat,Indore,award,4,2,41,8,1,215.0,88.0
+urban_transit,Maharashtra,Indore,notification,4,0,29,29,115,296.0,113.0
+urban_transit,Madhya Pradesh,Ahmedabad,compensation,3,2,28,50,31,204.0,114.0
+rail,Maharashtra,Indore,compensation,2,1,12,29,40,140.0,81.0
+rail,Madhya Pradesh,Pune,compensation,2,1,17,22,109,141.0,106.0
+urban_transit,Madhya Pradesh,Pune,notification,4,1,6,50,11,307.0,82.0
+urban_transit,Maharashtra,Nashik,notification,1,2,4,48,42,297.0,89.0
+highway,Gujarat,Satara,compensation,5,0,30,23,58,139.0,88.0
+highway,Gujarat,Nagpur,award,2,3,43,29,33,247.0,119.0
+rail,Gujarat,Nashik,award,6,1,21,47,89,208.0,117.0
+irrigation,Karnataka,Pune,verification,5,2,7,45,67,272.0,103.0
+highway,Karnataka,Nashik,compensation,2,3,4,49,105,180.0,127.0
+highway,Madhya Pradesh,Ahmedabad,award,2,2,12,47,89,209.0,117.0
+highway,Gujarat,Satara,award,1,1,15,4,50,175.0,81.0
+rail,Karnataka,Nashik,verification,3,2,13,26,2,265.0,76.0
+highway,Karnataka,Pune,award,6,1,33,46,19,216.0,98.0
+urban_transit,Gujarat,Nashik,objection,2,5,16,34,0,319.0,122.0
+rail,Karnataka,Ahmedabad,award,4,2,24,45,77,221.0,120.0
+irrigation,Madhya Pradesh,Indore,notification,2,0,42,21,67,309.0,103.0
+highway,Gujarat,Indore,compensation,2,0,9,51,64,104.0,75.0
+highway,Maharashtra,Satara,objection,2,2,36,22,114,257.0,132.0
+urban_transit,Gujarat,Nagpur,objection,6,4,16,40,3,278.0,104.0
+urban_transit,Karnataka,Ahmedabad,objection,3,1,26,49,21,243.0,93.0
+rail,Gujarat,Nashik,possession,6,1,30,38,65,148.0,115.0
+highway,Karnataka,Pune,objection,4,1,34,43,113,238.0,123.0
+irrigation,Madhya Pradesh,Ahmedabad,notification,1,2,37,23,76,365.0,134.0
+rail,Gujarat,Nagpur,verification,4,0,37,13,17,252.0,75.0
+rail,Madhya Pradesh,Pune,objection,6,2,31,51,57,255.0,114.0
+highway,Maharashtra,Pune,compensation,1,1,10,9,4,110.0,52.0
+rail,Karnataka,Satara,award,1,0,25,5,67,151.0,77.0
+irrigation,Karnataka,Pune,possession,6,2,20,40,49,175.0,121.0
+rail,Gujarat,Satara,notification,1,0,12,17,119,243.0,86.0
+highway,Gujarat,Satara,possession,1,0,40,5,41,102.0,81.0
+rail,Maharashtra,Satara,possession,5,1,19,10,91,130.0,110.0
+irrigation,Karnataka,Indore,award,1,3,28,10,19,232.0,102.0
+rail,Gujarat,Pune,objection,3,0,8,19,78,183.0,77.0
+irrigation,Maharashtra,Nashik,verification,3,0,4,46,92,220.0,85.0
+highway,Maharashtra,Indore,possession,3,2,23,40,14,122.0,86.0
+irrigation,Maharashtra,Satara,possession,3,1,36,5,84,126.0,108.0
+irrigation,Maharashtra,Pune,award,5,1,16,18,46,171.0,80.0
+rail,Maharashtra,Nagpur,compensation,5,1,30,51,103,185.0,130.0
+highway,Madhya Pradesh,Satara,possession,5,3,36,44,32,194.0,128.0
+rail,Karnataka,Indore,verification,3,2,40,30,15,334.0,116.0
+highway,Maharashtra,Nagpur,notification,1,4,33,23,27,367.0,120.0
+highway,Maharashtra,Nashik,objection,1,1,23,48,52,258.0,110.0
+urban_transit,Madhya Pradesh,Satara,objection,5,0,39,22,48,219.0,89.0
+rail,Madhya Pradesh,Pune,objection,1,1,16,15,15,212.0,70.0
+irrigation,Maharashtra,Indore,award,2,3,20,49,35,237.0,114.0
+urban_transit,Karnataka,Indore,award,3,1,26,5,75,186.0,97.0
+urban_transit,Karnataka,Ahmedabad,award,3,1,33,48,79,218.0,120.0
+urban_transit,Maharashtra,Pune,verification,3,1,44,43,12,304.0,103.0
+rail,Gujarat,Satara,notification,6,0,25,21,74,284.0,91.0
+urban_transit,Gujarat,Nashik,verification,1,2,14,7,62,249.0,87.0
+irrigation,Madhya Pradesh,Indore,verification,5,2,22,4,90,278.0,111.0
+rail,Madhya Pradesh,Pune,objection,5,5,25,36,115,337.0,172.0
+rail,Madhya Pradesh,Ahmedabad,compensation,1,4,2,37,118,195.0,137.0
+irrigation,Maharashtra,Ahmedabad,notification,3,1,30,14,64,292.0,93.0
+highway,Madhya Pradesh,Nagpur,compensation,5,1,26,51,66,164.0,107.0
+rail,Gujarat,Indore,award,1,0,31,24,34,198.0,90.0
+rail,Maharashtra,Nashik,notification,3,0,34,33,6,284.0,71.0
+rail,Maharashtra,Ahmedabad,compensation,5,1,29,21,38,169.0,96.0
+rail,Gujarat,Nashik,notification,6,4,2,19,18,338.0,97.0
+irrigation,Gujarat,Nashik,notification,4,3,38,49,81,375.0,145.0
+urban_transit,Madhya Pradesh,Nashik,objection,5,2,26,6,91,238.0,111.0
+highway,Gujarat,Indore,verification,2,3,41,28,41,336.0,128.0
+highway,Maharashtra,Nagpur,verification,1,2,26,9,112,286.0,124.0
+urban_transit,Madhya Pradesh,Ahmedabad,award,1,1,23,14,56,181.0,89.0
+irrigation,Karnataka,Satara,award,6,0,18,13,80,175.0,92.0
+urban_transit,Madhya Pradesh,Ahmedabad,possession,4,1,31,33,61,129.0,105.0
+highway,Maharashtra,Satara,compensation,3,0,16,27,54,119.0,76.0
+irrigation,Maharashtra,Pune,verification,1,3,12,37,37,282.0,98.0
+rail,Gujarat,Pune,award,6,2,24,24,43,194.0,93.0
+rail,Gujarat,Satara,award,3,0,14,34,48,139.0,67.0
+highway,Madhya Pradesh,Nashik,verification,2,1,26,36,112,303.0,133.0
+urban_transit,Maharashtra,Pune,notification,2,2,16,24,49,302.0,92.0
+irrigation,Karnataka,Satara,objection,6,1,8,14,29,190.0,64.0
+highway,Madhya Pradesh,Nagpur,objection,6,1,24,12,45,192.0,73.0
+highway,Maharashtra,Satara,objection,2,1,13,48,80,245.0,112.0
+highway,Karnataka,Nagpur,compensation,2,2,34,24,1,176.0,89.0
+highway,Karnataka,Ahmedabad,award,4,0,2,50,107,175.0,104.0
+highway,Gujarat,Pune,compensation,4,0,7,41,30,131.0,73.0
+urban_transit,Gujarat,Indore,objection,4,1,33,50,98,276.0,136.0
+rail,Karnataka,Nashik,verification,1,2,28,19,62,284.0,107.0
+rail,Madhya Pradesh,Pune,compensation,3,0,18,13,102,103.0,84.0
+urban_transit,Karnataka,Nagpur,objection,6,2,23,6,20,223.0,79.0
+irrigation,Karnataka,Ahmedabad,verification,2,3,32,15,32,309.0,109.0
+rail,Maharashtra,Satara,compensation,3,1,13,40,105,132.0,102.0
+urban_transit,Gujarat,Pune,objection,2,2,19,29,25,242.0,91.0
+irrigation,Maharashtra,Nagpur,objection,5,4,27,26,111,300.0,152.0
+highway,Karnataka,Satara,objection,5,0,42,14,55,245.0,102.0
+highway,Madhya Pradesh,Nagpur,compensation,5,2,27,10,4,157.0,78.0
+urban_transit,Madhya Pradesh,Indore,compensation,2,1,30,22,37,161.0,92.0
+irrigation,Maharashtra,Satara,notification,4,1,41,31,78,328.0,118.0
+irrigation,Madhya Pradesh,Satara,compensation,4,1,38,28,0,169.0,85.0
+rail,Gujarat,Indore,verification,4,4,16,46,46,346.0,134.0
+highway,Madhya Pradesh,Nagpur,notification,4,2,11,46,22,319.0,93.0
+highway,Karnataka,Satara,compensation,2,3,2,8,111,150.0,109.0
+urban_transit,Gujarat,Nashik,verification,5,1,33,43,118,273.0,124.0
+highway,Madhya Pradesh,Nashik,award,4,1,19,42,76,172.0,95.0
+irrigation,Karnataka,Satara,possession,6,2,28,21,15,129.0,88.0
+rail,Gujarat,Nashik,compensation,1,0,15,51,55,162.0,99.0
+urban_transit,Maharashtra,Pune,award,6,1,5,34,68,162.0,84.0
+irrigation,Karnataka,Ahmedabad,objection,6,3,42,21,80,296.0,139.0
+highway,Madhya Pradesh,Ahmedabad,objection,4,1,42,46,50,277.0,121.0
+irrigation,Madhya Pradesh,Indore,possession,4,2,10,10,17,96.0,69.0
+urban_transit,Madhya Pradesh,Ahmedabad,possession,2,1,6,24,111,96.0,102.0
+rail,Maharashtra,Pune,notification,3,1,8,36,40,290.0,82.0
+rail,Maharashtra,Satara,award,1,4,29,40,2,260.0,114.0
+irrigation,Maharashtra,Pune,notification,1,2,15,46,87,299.0,107.0
+irrigation,Maharashtra,Nashik,objection,2,0,25,23,109,206.0,102.0
+rail,Maharashtra,Indore,notification,5,0,40,51,48,307.0,99.0
+rail,Madhya Pradesh,Nagpur,compensation,5,4,37,29,22,215.0,117.0
+irrigation,Madhya Pradesh,Satara,possession,5,4,32,20,93,162.0,133.0
+urban_transit,Madhya Pradesh,Nashik,objection,5,0,5,20,34,164.0,53.0
+rail,Gujarat,Ahmedabad,possession,3,0,27,19,71,104.0,93.0
+highway,Karnataka,Nashik,compensation,5,1,45,44,62,170.0,110.0
+highway,Gujarat,Indore,compensation,2,2,8,42,84,148.0,103.0
+irrigation,Karnataka,Indore,verification,2,2,23,51,54,306.0,118.0
+urban_transit,Gujarat,Indore,objection,3,2,38,10,78,263.0,120.0
+highway,Maharashtra,Pune,objection,1,2,29,44,62,254.0,114.0
+rail,Maharashtra,Satara,objection,6,1,12,11,24,218.0,75.0
+irrigation,Gujarat,Indore,objection,6,3,31,14,107,256.0,128.0
+rail,Madhya Pradesh,Indore,award,3,0,15,33,105,178.0,105.0
+rail,Karnataka,Pune,compensation,3,2,22,44,8,201.0,103.0
+rail,Gujarat,Nagpur,compensation,6,1,23,17,9,149.0,75.0
+irrigation,Maharashtra,Ahmedabad,verification,2,2,29,23,82,287.0,116.0
+rail,Madhya Pradesh,Nagpur,award,6,1,42,41,85,215.0,121.0
+urban_transit,Madhya Pradesh,Nagpur,possession,1,0,43,14,5,113.0,75.0
+highway,Maharashtra,Pune,verification,5,0,34,7,34,270.0,87.0
+irrigation,Gujarat,Indore,notification,2,0,35,21,21,293.0,79.0
+irrigation,Gujarat,Indore,compensation,1,1,2,5,87,107.0,78.0
+rail,Madhya Pradesh,Satara,notification,4,1,16,41,116,311.0,121.0
+urban_transit,Madhya Pradesh,Pune,possession,4,5,10,33,102,203.0,154.0
+rail,Madhya Pradesh,Satara,objection,5,2,9,38,74,226.0,101.0
+highway,Madhya Pradesh,Indore,award,6,2,33,39,38,202.0,98.0
+irrigation,Gujarat,Nashik,verification,3,5,36,18,60,360.0,146.0
+rail,Maharashtra,Indore,possession,3,2,23,39,81,151.0,122.0
+irrigation,Madhya Pradesh,Indore,possession,4,0,12,32,37,90.0,74.0
+irrigation,Maharashtra,Nashik,verification,5,1,12,48,14,288.0,92.0
+irrigation,Gujarat,Satara,award,3,0,18,9,89,139.0,78.0
+highway,Madhya Pradesh,Ahmedabad,possession,3,0,44,13,59,127.0,101.0
+irrigation,Karnataka,Indore,verification,2,2,45,13,90,296.0,124.0
+irrigation,Madhya Pradesh,Ahmedabad,objection,6,0,28,11,73,203.0,87.0
+irrigation,Karnataka,Indore,award,1,2,27,46,45,218.0,108.0
+irrigation,Maharashtra,Satara,verification,1,0,33,45,58,281.0,105.0
+rail,Karnataka,Satara,objection,4,3,28,46,44,273.0,117.0
+rail,Karnataka,Indore,possession,5,0,40,38,85,135.0,116.0
+highway,Madhya Pradesh,Ahmedabad,possession,1,1,42,10,113,138.0,125.0
+urban_transit,Madhya Pradesh,Pune,award,1,2,15,33,116,170.0,108.0
+highway,Gujarat,Nagpur,possession,6,2,5,18,2,118.0,74.0
+irrigation,Maharashtra,Nagpur,possession,4,1,37,50,113,139.0,131.0
+urban_transit,Karnataka,Ahmedabad,possession,1,2,43,11,20,147.0,99.0
+irrigation,Gujarat,Satara,award,5,1,15,47,99,170.0,102.0
+urban_transit,Gujarat,Satara,objection,6,3,9,47,26,279.0,111.0
+highway,Karnataka,Nagpur,notification,6,0,28,41,23,298.0,83.0
+irrigation,Maharashtra,Ahmedabad,award,4,2,11,32,30,199.0,89.0
+rail,Madhya Pradesh,Indore,objection,5,1,23,21,71,229.0,100.0
+irrigation,Gujarat,Satara,compensation,6,2,29,16,49,161.0,97.0
+rail,Gujarat,Indore,notification,4,0,3,42,39,262.0,68.0
+highway,Gujarat,Pune,compensation,5,2,13,49,62,163.0,104.0
+irrigation,Maharashtra,Pune,objection,3,2,8,15,106,207.0,100.0
+highway,Maharashtra,Nagpur,verification,4,3,32,4,5,294.0,92.0
+rail,Karnataka,Nashik,objection,6,0,28,31,79,217.0,98.0
+irrigation,Karnataka,Satara,possession,3,3,11,7,59,147.0,108.0
+irrigation,Madhya Pradesh,Satara,award,1,2,39,21,99,243.0,137.0
+urban_transit,Maharashtra,Satara,possession,5,2,34,43,43,169.0,119.0
+urban_transit,Karnataka,Ahmedabad,award,4,2,40,4,75,222.0,117.0
+irrigation,Madhya Pradesh,Ahmedabad,compensation,5,3,13,50,16,196.0,104.0
+rail,Maharashtra,Indore,notification,2,1,16,34,35,274.0,75.0
+rail,Madhya Pradesh,Ahmedabad,objection,5,0,38,9,52,202.0,81.0
+urban_transit,Gujarat,Indore,notification,2,1,31,24,2,325.0,87.0
+urban_transit,Karnataka,Ahmedabad,objection,6,1,40,28,18,251.0,95.0
+irrigation,Madhya Pradesh,Ahmedabad,compensation,6,0,30,32,51,126.0,81.0
+urban_transit,Gujarat,Indore,possession,6,1,9,35,68,84.0,83.0
+irrigation,Karnataka,Pune,objection,5,2,23,6,94,213.0,100.0
+highway,Madhya Pradesh,Pune,possession,5,0,21,4,59,71.0,70.0
+highway,Karnataka,Indore,notification,2,2,26,23,10,332.0,94.0
+urban_transit,Gujarat,Nagpur,notification,3,3,3,47,96,291.0,106.0
+highway,Madhya Pradesh,Nashik,objection,4,1,35,49,91,253.0,124.0
+urban_transit,Gujarat,Pune,possession,5,1,17,30,108,121.0,115.0
+rail,Karnataka,Pune,objection,1,1,31,27,113,231.0,118.0
+highway,Gujarat,Satara,award,1,1,42,46,98,217.0,127.0
+urban_transit,Maharashtra,Pune,notification,4,1,35,49,92,348.0,133.0
+irrigation,Karnataka,Satara,notification,4,0,23,4,66,264.0,77.0
+irrigation,Karnataka,Satara,objection,5,2,30,24,40,277.0,113.0
+rail,Karnataka,Indore,verification,6,2,33,35,71,293.0,117.0
+irrigation,Madhya Pradesh,Nagpur,award,5,5,40,15,105,301.0,169.0
+rail,Maharashtra,Satara,verification,6,3,7,26,44,280.0,98.0
+urban_transit,Madhya Pradesh,Nashik,possession,4,3,15,15,60,150.0,111.0
+irrigation,Karnataka,Ahmedabad,award,6,2,37,15,69,219.0,114.0
+urban_transit,Gujarat,Nashik,notification,4,0,37,21,5,291.0,72.0
+urban_transit,Gujarat,Satara,objection,2,2,40,10,12,261.0,96.0
+urban_transit,Maharashtra,Satara,award,6,5,39,34,108,280.0,163.0
+highway,Karnataka,Satara,compensation,2,2,15,23,8,147.0,75.0
+highway,Gujarat,Nashik,award,3,1,8,36,118,165.0,104.0
+irrigation,Karnataka,Pune,possession,4,4,22,47,89,205.0,153.0
+highway,Madhya Pradesh,Pune,award,5,2,36,40,107,219.0,131.0
+irrigation,Madhya Pradesh,Ahmedabad,possession,1,1,11,35,72,119.0,100.0
+highway,Gujarat,Pune,verification,1,4,18,29,95,305.0,130.0
+irrigation,Karnataka,Nagpur,objection,4,0,9,36,91,206.0,95.0
+highway,Madhya Pradesh,Nagpur,objection,5,1,18,29,101,242.0,116.0
+irrigation,Madhya Pradesh,Pune,possession,1,0,30,35,91,117.0,108.0
+irrigation,Maharashtra,Ahmedabad,compensation,3,0,9,39,44,118.0,72.0
+highway,Madhya Pradesh,Pune,possession,5,1,28,20,18,127.0,86.0
+highway,Karnataka,Ahmedabad,verification,2,0,40,21,57,270.0,98.0
+highway,Maharashtra,Ahmedabad,possession,4,3,41,12,51,176.0,124.0
+irrigation,Gujarat,Satara,objection,1,1,9,42,30,232.0,87.0
+irrigation,Gujarat,Ahmedabad,notification,4,0,39,7,77,303.0,102.0
+highway,Maharashtra,Pune,objection,6,4,45,45,71,334.0,159.0
+highway,Karnataka,Satara,award,1,4,17,46,80,248.0,135.0
+rail,Maharashtra,Ahmedabad,possession,2,0,13,20,107,63.0,85.0
+irrigation,Karnataka,Ahmedabad,notification,1,2,12,28,23,289.0,77.0
+highway,Madhya Pradesh,Nagpur,possession,2,2,33,13,101,133.0,119.0
+highway,Karnataka,Pune,award,1,1,8,13,79,161.0,85.0
+urban_transit,Madhya Pradesh,Ahmedabad,possession,4,4,34,49,45,206.0,141.0
+urban_transit,Maharashtra,Indore,objection,1,2,5,33,38,231.0,89.0
+irrigation,Maharashtra,Ahmedabad,award,3,1,23,42,16,202.0,88.0
+irrigation,Gujarat,Nashik,notification,6,0,34,41,22,333.0,99.0
+irrigation,Gujarat,Pune,notification,3,1,3,51,27,277.0,73.0
+irrigation,Maharashtra,Pune,notification,1,1,37,14,103,340.0,129.0
+urban_transit,Maharashtra,Nagpur,compensation,6,1,38,29,112,177.0,128.0
+irrigation,Madhya Pradesh,Satara,award,3,2,11,15,46,172.0,81.0
+rail,Gujarat,Satara,verification,6,2,16,40,115,269.0,119.0
+rail,Gujarat,Satara,verification,3,3,21,38,0,280.0,86.0
+irrigation,Madhya Pradesh,Ahmedabad,possession,6,2,36,5,93,154.0,125.0
+highway,Madhya Pradesh,Ahmedabad,notification,1,4,3,44,39,350.0,114.0
+highway,Gujarat,Nagpur,verification,5,1,10,13,49,227.0,72.0
+rail,Karnataka,Satara,objection,2,3,22,15,91,239.0,113.0
+rail,Madhya Pradesh,Nagpur,objection,2,1,26,36,64,237.0,104.0
+highway,Karnataka,Nagpur,possession,1,0,26,15,85,99.0,94.0
+irrigation,Karnataka,Satara,possession,6,2,45,24,54,153.0,116.0
+urban_transit,Madhya Pradesh,Indore,compensation,3,0,15,21,22,107.0,58.0
+highway,Madhya Pradesh,Indore,award,5,3,36,47,102,260.0,150.0
+rail,Madhya Pradesh,Nagpur,notification,6,3,8,25,51,356.0,118.0
+urban_transit,Maharashtra,Satara,objection,6,0,36,19,52,219.0,89.0
+highway,Maharashtra,Nagpur,award,4,0,31,9,81,140.0,78.0
+irrigation,Karnataka,Pune,compensation,4,5,17,17,81,202.0,129.0
+urban_transit,Madhya Pradesh,Ahmedabad,award,1,3,44,35,26,287.0,135.0
+rail,Karnataka,Nashik,compensation,5,2,23,13,45,162.0,94.0
+highway,Gujarat,Indore,possession,3,0,17,20,57,85.0,78.0
+rail,Karnataka,Satara,award,6,1,44,12,4,200.0,83.0
+urban_transit,Madhya Pradesh,Nagpur,objection,2,0,10,4,102,186.0,85.0
+urban_transit,Madhya Pradesh,Nashik,objection,3,0,18,28,54,190.0,75.0
+highway,Madhya Pradesh,Ahmedabad,award,4,2,14,49,110,211.0,126.0
+irrigation,Karnataka,Pune,compensation,6,1,30,7,45,168.0,96.0
+highway,Madhya Pradesh,Pune,possession,2,1,22,42,76,129.0,109.0
+urban_transit,Karnataka,Nashik,notification,1,1,33,44,104,327.0,127.0
+irrigation,Maharashtra,Nashik,objection,4,0,33,46,101,216.0,108.0
+highway,Maharashtra,Ahmedabad,possession,1,1,44,43,5,176.0,109.0
+irrigation,Madhya Pradesh,Indore,compensation,1,1,3,51,59,122.0,81.0
+irrigation,Karnataka,Indore,award,2,3,44,18,89,235.0,132.0
+irrigation,Maharashtra,Satara,notification,4,1,40,20,57,313.0,102.0
+irrigation,Madhya Pradesh,Satara,notification,4,2,30,22,73,312.0,107.0
+urban_transit,Madhya Pradesh,Indore,award,4,1,34,25,53,204.0,101.0
+urban_transit,Gujarat,Nagpur,compensation,4,1,35,47,1,177.0,91.0
+irrigation,Maharashtra,Pune,objection,2,0,45,10,30,235.0,89.0
+rail,Maharashtra,Ahmedabad,possession,3,7,5,36,62,216.0,149.0
+rail,Madhya Pradesh,Nagpur,objection,1,2,41,20,36,260.0,106.0
+irrigation,Madhya Pradesh,Ahmedabad,notification,1,1,6,20,82,263.0,83.0
+highway,Maharashtra,Ahmedabad,compensation,4,1,36,22,26,154.0,86.0
+rail,Madhya Pradesh,Pune,possession,6,1,6,35,78,70.0,80.0
+urban_transit,Gujarat,Pune,objection,3,5,33,46,61,319.0,148.0
+highway,Karnataka,Indore,possession,6,1,2,8,61,68.0,69.0
+rail,Madhya Pradesh,Nashik,compensation,6,1,32,12,117,167.0,122.0
+urban_transit,Karnataka,Indore,objection,3,3,20,23,116,271.0,137.0
+urban_transit,Gujarat,Nagpur,compensation,5,0,14,17,82,120.0,85.0
+urban_transit,Madhya Pradesh,Satara,objection,5,1,34,5,112,228.0,114.0
+rail,Maharashtra,Pune,possession,1,2,27,40,4,147.0,94.0
+irrigation,Gujarat,Indore,compensation,2,1,45,20,84,186.0,122.0
+irrigation,Karnataka,Ahmedabad,award,2,1,19,47,114,185.0,114.0
+highway,Karnataka,Nagpur,compensation,4,2,3,44,31,150.0,85.0
+highway,Madhya Pradesh,Satara,verification,4,2,21,8,3,265.0,75.0
+rail,Gujarat,Ahmedabad,verification,2,2,7,40,42,295.0,104.0
+highway,Karnataka,Indore,compensation,6,2,34,16,21,177.0,95.0
+urban_transit,Maharashtra,Indore,verification,6,1,44,9,108,283.0,122.0
+irrigation,Karnataka,Nashik,verification,6,0,16,44,48,231.0,77.0
+irrigation,Gujarat,Ahmedabad,compensation,3,2,29,13,56,154.0,96.0
+urban_transit,Gujarat,Satara,objection,3,0,22,9,2,180.0,51.0
+highway,Gujarat,Nashik,award,6,2,6,41,3,184.0,74.0
+rail,Madhya Pradesh,Ahmedabad,possession,3,1,11,20,43,108.0,84.0
+rail,Madhya Pradesh,Nagpur,verification,5,0,2,31,58,231.0,76.0
+irrigation,Karnataka,Indore,objection,3,2,35,50,108,289.0,147.0
+irrigation,Maharashtra,Pune,award,4,0,37,21,36,188.0,87.0
+irrigation,Gujarat,Indore,verification,5,1,35,45,11,309.0,103.0
+urban_transit,Karnataka,Ahmedabad,compensation,2,1,20,17,32,144.0,80.0
+irrigation,Gujarat,Pune,verification,4,0,12,14,53,201.0,60.0
+highway,Maharashtra,Pune,notification,1,4,19,6,55,329.0,108.0
+highway,Karnataka,Indore,possession,3,1,12,50,80,116.0,104.0
+irrigation,Karnataka,Nashik,compensation,3,2,4,21,62,168.0,101.0
+irrigation,Maharashtra,Ahmedabad,compensation,3,0,4,23,18,99.0,52.0
+rail,Maharashtra,Satara,award,2,2,5,47,0,190.0,76.0
+rail,Karnataka,Ahmedabad,award,2,2,40,51,16,233.0,108.0
+irrigation,Madhya Pradesh,Ahmedabad,notification,5,3,6,22,89,306.0,108.0
+irrigation,Maharashtra,Nagpur,notification,2,2,10,13,95,292.0,102.0
+urban_transit,Gujarat,Nagpur,verification,4,4,34,33,97,354.0,156.0
+irrigation,Madhya Pradesh,Indore,possession,1,0,38,33,103,119.0,114.0
+highway,Gujarat,Indore,objection,6,2,21,28,64,243.0,106.0
+irrigation,Gujarat,Ahmedabad,award,4,1,14,37,22,173.0,75.0
+rail,Maharashtra,Ahmedabad,verification,2,2,33,26,42,308.0,113.0
+urban_transit,Karnataka,Satara,objection,5,1,42,51,65,283.0,129.0
+urban_transit,Karnataka,Ahmedabad,compensation,1,0,4,18,76,105.0,74.0
+rail,Maharashtra,Pune,possession,6,0,7,45,50,82.0,75.0
+urban_transit,Gujarat,Pune,objection,1,0,41,35,101,235.0,117.0
+urban_transit,Gujarat,Nagpur,objection,1,3,18,4,49,242.0,98.0
+irrigation,Karnataka,Indore,objection,5,1,7,28,40,219.0,83.0
+highway,Karnataka,Satara,compensation,3,1,15,45,8,154.0,79.0
+highway,Karnataka,Ahmedabad,notification,6,4,25,5,51,341.0,112.0
+rail,Madhya Pradesh,Nashik,notification,4,0,39,11,61,320.0,104.0
+urban_transit,Maharashtra,Pune,award,6,0,39,44,61,195.0,102.0
+rail,Maharashtra,Satara,compensation,2,5,25,28,53,221.0,131.0
+urban_transit,Karnataka,Ahmedabad,verification,1,2,42,21,45,292.0,107.0
+urban_transit,Maharashtra,Satara,award,2,0,27,19,48,162.0,77.0
+irrigation,Madhya Pradesh,Nashik,award,4,0,23,40,107,187.0,111.0
+rail,Karnataka,Nagpur,verification,1,0,8,44,103,224.0,91.0
+irrigation,Gujarat,Satara,award,2,1,29,16,9,204.0,84.0
+rail,Madhya Pradesh,Satara,possession,1,2,27,5,85,127.0,109.0
+urban_transit,Karnataka,Ahmedabad,award,6,1,15,42,5,219.0,90.0
+urban_transit,Madhya Pradesh,Indore,compensation,1,3,11,35,67,173.0,109.0
+urban_transit,Madhya Pradesh,Pune,possession,6,4,7,33,48,146.0,108.0
+irrigation,Karnataka,Indore,compensation,5,3,18,24,96,181.0,123.0
+rail,Maharashtra,Nashik,objection,5,0,6,4,84,166.0,69.0
+irrigation,Gujarat,Indore,objection,6,0,41,50,67,252.0,115.0
+rail,Madhya Pradesh,Ahmedabad,award,2,0,7,44,116,139.0,91.0
+irrigation,Karnataka,Nashik,possession,3,2,13,27,12,136.0,88.0
+rail,Madhya Pradesh,Satara,compensation,1,0,38,26,79,154.0,104.0
+irrigation,Maharashtra,Nashik,notification,5,3,27,26,24,337.0,103.0
+highway,Gujarat,Satara,verification,2,2,24,10,56,264.0,94.0
+urban_transit,Karnataka,Satara,award,6,1,7,30,47,181.0,85.0
+rail,Madhya Pradesh,Satara,objection,1,2,35,30,51,261.0,112.0
+highway,Karnataka,Pune,possession,6,1,37,5,88,124.0,109.0
+urban_transit,Madhya Pradesh,Satara,award,4,2,32,30,65,214.0,112.0
+rail,Gujarat,Indore,verification,1,3,24,35,76,296.0,120.0
+highway,Gujarat,Pune,notification,1,2,28,14,40,290.0,84.0
+urban_transit,Maharashtra,Pune,verification,1,0,19,42,51,256.0,89.0
+rail,Karnataka,Indore,objection,4,3,18,33,85,271.0,127.0
+rail,Karnataka,Nagpur,compensation,2,1,44,19,1,174.0,87.0
+irrigation,Karnataka,Pune,verification,3,0,37,10,49,240.0,80.0
+urban_transit,Maharashtra,Satara,possession,4,1,9,32,30,108.0,80.0
+rail,Maharashtra,Nashik,objection,5,1,32,31,83,242.0,113.0
+irrigation,Madhya Pradesh,Nagpur,possession,3,3,25,20,60,141.0,110.0
+highway,Karnataka,Nagpur,compensation,3,2,28,32,61,194.0,118.0
+irrigation,Maharashtra,Nagpur,objection,5,3,19,50,94,272.0,133.0
+rail,Maharashtra,Satara,possession,2,2,2,15,17,102.0,71.0
+irrigation,Maharashtra,Satara,verification,1,0,25,6,26,213.0,57.0
+irrigation,Madhya Pradesh,Ahmedabad,objection,3,1,41,25,42,261.0,108.0
+urban_transit,Karnataka,Indore,possession,5,2,43,29,38,167.0,116.0
+urban_transit,Karnataka,Nashik,possession,5,2,40,36,76,151.0,123.0
+rail,Gujarat,Indore,objection,5,3,43,42,63,267.0,123.0
+urban_transit,Madhya Pradesh,Pune,compensation,1,0,39,4,106,143.0,106.0
+urban_transit,Karnataka,Ahmedabad,verification,5,2,34,48,83,324.0,137.0
+urban_transit,Madhya Pradesh,Nagpur,verification,1,1,6,32,115,241.0,103.0
+urban_transit,Karnataka,Satara,notification,2,2,34,22,92,316.0,116.0
+highway,Madhya Pradesh,Pune,possession,6,1,28,8,25,94.0,72.0
+highway,Madhya Pradesh,Pune,award,5,2,5,24,99,199.0,112.0
+urban_transit,Gujarat,Nagpur,compensation,3,0,32,32,33,126.0,75.0
+irrigation,Karnataka,Nagpur,possession,2,0,23,49,41,86.0,77.0
+irrigation,Madhya Pradesh,Nashik,compensation,2,3,33,23,96,182.0,126.0
+highway,Maharashtra,Ahmedabad,possession,4,2,19,45,84,143.0,120.0
+highway,Madhya Pradesh,Satara,award,4,1,31,14,37,227.0,104.0
+irrigation,Madhya Pradesh,Indore,compensation,1,2,16,34,74,190.0,119.0
+highway,Gujarat,Nagpur,objection,1,1,11,5,84,197.0,86.0
+rail,Madhya Pradesh,Pune,notification,3,1,39,15,79,293.0,100.0
+rail,Karnataka,Nashik,verification,2,1,41,50,113,309.0,141.0
+irrigation,Karnataka,Satara,compensation,2,0,4,12,12,71.0,35.0
+highway,Karnataka,Nashik,notification,6,1,26,5,62,298.0,93.0
+urban_transit,Gujarat,Indore,compensation,3,4,10,34,120,190.0,137.0
+highway,Maharashtra,Satara,objection,2,0,39,32,16,243.0,90.0
+irrigation,Maharashtra,Satara,notification,6,2,13,31,120,309.0,121.0
+highway,Gujarat,Pune,objection,6,0,31,50,60,234.0,102.0
+irrigation,Maharashtra,Nagpur,award,4,3,9,24,45,208.0,99.0
+rail,Gujarat,Satara,notification,1,0,23,4,13,239.0,47.0
+urban_transit,Karnataka,Nashik,possession,3,0,28,51,88,114.0,107.0
+irrigation,Madhya Pradesh,Satara,award,1,1,19,51,5,178.0,74.0
+rail,Karnataka,Nagpur,possession,2,3,39,9,65,176.0,128.0
+rail,Maharashtra,Pune,notification,4,1,18,38,13,303.0,81.0
+urban_transit,Maharashtra,Nagpur,notification,6,4,27,16,50,334.0,111.0
+urban_transit,Maharashtra,Satara,award,6,4,2,6,15,209.0,87.0
+highway,Karnataka,Ahmedabad,objection,3,2,45,49,30,291.0,122.0
+highway,Madhya Pradesh,Ahmedabad,possession,6,0,26,18,45,79.0,72.0
+highway,Madhya Pradesh,Nagpur,compensation,3,1,27,14,75,141.0,95.0
+irrigation,Karnataka,Nashik,objection,3,1,2,30,40,204.0,75.0
+irrigation,Karnataka,Pune,notification,4,2,5,25,14,286.0,71.0
+irrigation,Karnataka,Satara,compensation,1,2,45,38,111,181.0,133.0
+irrigation,Madhya Pradesh,Indore,compensation,4,0,5,43,40,106.0,65.0
+irrigation,Gujarat,Nagpur,possession,1,2,27,23,119,135.0,127.0
+urban_transit,Gujarat,Pune,compensation,4,4,18,51,31,189.0,109.0
+rail,Karnataka,Ahmedabad,compensation,4,1,14,15,55,136.0,83.0
+urban_transit,Gujarat,Ahmedabad,award,2,1,41,6,69,216.0,111.0
+rail,Maharashtra,Ahmedabad,possession,3,2,38,11,102,152.0,129.0
+urban_transit,Karnataka,Indore,verification,1,0,28,16,59,266.0,95.0
+urban_transit,Karnataka,Indore,award,3,2,34,31,100,228.0,131.0
+urban_transit,Madhya Pradesh,Ahmedabad,notification,6,1,20,19,74,288.0,93.0
+irrigation,Karnataka,Nashik,verification,4,0,20,29,28,245.0,75.0
+urban_transit,Gujarat,Nashik,notification,3,1,3,8,111,251.0,85.0
+irrigation,Gujarat,Ahmedabad,award,3,2,29,5,40,219.0,102.0
+rail,Gujarat,Nashik,objection,4,1,24,10,1,192.0,58.0
+urban_transit,Karnataka,Pune,award,1,2,11,22,39,197.0,90.0
+urban_transit,Maharashtra,Pune,objection,1,3,19,30,12,290.0,110.0
+rail,Madhya Pradesh,Nagpur,possession,2,2,16,48,98,134.0,120.0
+irrigation,Madhya Pradesh,Nashik,verification,2,1,29,50,43,284.0,103.0
+highway,Madhya Pradesh,Indore,award,6,1,24,17,82,168.0,92.0
+highway,Maharashtra,Nagpur,award,1,2,21,42,108,201.0,121.0
+urban_transit,Madhya Pradesh,Pune,award,4,1,20,47,74,212.0,113.0
+rail,Madhya Pradesh,Pune,compensation,6,2,37,23,51,206.0,120.0
+highway,Maharashtra,Indore,objection,3,1,14,15,11,184.0,56.0
+rail,Karnataka,Satara,objection,4,1,40,39,68,249.0,113.0
+rail,Karnataka,Nagpur,notification,1,3,15,8,114,315.0,120.0
+highway,Maharashtra,Ahmedabad,notification,2,0,28,39,49,307.0,96.0
+highway,Maharashtra,Nashik,verification,5,2,37,15,22,297.0,100.0
+urban_transit,Karnataka,Nashik,award,2,1,7,30,72,178.0,93.0
+urban_transit,Gujarat,Ahmedabad,notification,5,6,8,43,41,396.0,139.0
+urban_transit,Madhya Pradesh,Indore,notification,6,0,34,4,112,253.0,90.0
+highway,Karnataka,Indore,objection,4,1,21,22,112,225.0,112.0
+urban_transit,Gujarat,Indore,compensation,1,0,31,49,107,143.0,111.0
+highway,Gujarat,Indore,award,5,1,40,36,47,225.0,111.0
+highway,Madhya Pradesh,Satara,compensation,3,1,41,43,79,195.0,127.0
+irrigation,Karnataka,Ahmedabad,objection,6,1,21,37,109,238.0,119.0
+irrigation,Gujarat,Ahmedabad,verification,3,2,17,46,9,268.0,83.0
+highway,Gujarat,Indore,possession,6,3,12,37,78,131.0,111.0
+rail,Madhya Pradesh,Indore,notification,5,0,19,9,90,264.0,85.0
+urban_transit,Maharashtra,Satara,possession,1,1,41,22,32,143.0,101.0
+rail,Gujarat,Pune,compensation,2,3,29,20,98,173.0,121.0
+rail,Madhya Pradesh,Nashik,verification,1,1,44,18,86,287.0,118.0
+highway,Maharashtra,Pune,verification,6,3,35,12,80,287.0,116.0
+rail,Maharashtra,Satara,notification,5,0,31,43,109,297.0,113.0
+irrigation,Gujarat,Nashik,notification,3,2,23,9,102,312.0,115.0
+rail,Maharashtra,Nagpur,objection,2,3,44,50,111,312.0,162.0
+highway,Karnataka,Pune,objection,1,1,23,35,45,234.0,95.0
+rail,Karnataka,Satara,possession,3,0,45,42,42,152.0,110.0
+rail,Maharashtra,Pune,verification,2,0,11,20,47,220.0,67.0
+highway,Karnataka,Satara,award,6,0,8,4,40,129.0,55.0
+highway,Gujarat,Nagpur,verification,5,1,38,15,110,265.0,115.0
+irrigation,Karnataka,Satara,notification,1,1,10,24,110,303.0,112.0
+urban_transit,Madhya Pradesh,Indore,notification,3,2,6,30,97,306.0,110.0
+urban_transit,Gujarat,Ahmedabad,notification,5,4,30,10,73,364.0,132.0
+urban_transit,Karnataka,Ahmedabad,notification,3,3,17,36,104,324.0,125.0
+rail,Karnataka,Pune,notification,5,1,25,45,11,327.0,93.0
+highway,Maharashtra,Satara,possession,2,3,28,23,90,164.0,131.0
+highway,Karnataka,Indore,possession,6,0,5,11,72,64.0,70.0
+rail,Madhya Pradesh,Indore,objection,4,3,39,47,73,293.0,139.0
+highway,Karnataka,Ahmedabad,award,4,3,28,29,75,234.0,125.0
+urban_transit,Karnataka,Pune,notification,5,2,5,42,105,322.0,122.0
+irrigation,Madhya Pradesh,Satara,objection,2,1,27,30,3,241.0,83.0
+rail,Karnataka,Nashik,compensation,1,5,13,33,36,220.0,123.0
+urban_transit,Maharashtra,Ahmedabad,compensation,6,1,12,42,99,144.0,106.0
+irrigation,Karnataka,Indore,possession,1,2,11,9,80,105.0,95.0
+urban_transit,Maharashtra,Ahmedabad,verification,5,2,36,23,23,293.0,99.0
+rail,Maharashtra,Ahmedabad,award,1,1,24,30,46,190.0,92.0
+highway,Maharashtra,Satara,notification,6,2,40,25,52,341.0,115.0
+rail,Gujarat,Ahmedabad,verification,5,1,9,37,78,267.0,103.0
+highway,Madhya Pradesh,Satara,verification,3,2,39,21,53,299.0,113.0
+highway,Maharashtra,Nagpur,notification,1,1,39,14,20,312.0,88.0
+urban_transit,Karnataka,Nashik,notification,2,0,19,48,104,284.0,104.0
+urban_transit,Madhya Pradesh,Nagpur,objection,1,4,8,35,78,275.0,127.0
+highway,Gujarat,Nashik,compensation,1,1,8,49,67,132.0,89.0
+rail,Maharashtra,Nashik,objection,4,0,34,41,86,226.0,107.0
+irrigation,Gujarat,Satara,objection,1,1,26,20,29,232.0,87.0
+irrigation,Karnataka,Pune,possession,5,0,11,49,6,94.0,67.0
+urban_transit,Madhya Pradesh,Nashik,objection,3,1,31,17,68,247.0,108.0
+urban_transit,Gujarat,Nagpur,award,4,3,45,34,26,289.0,136.0
+highway,Gujarat,Satara,objection,6,4,42,50,50,308.0,139.0
+rail,Maharashtra,Satara,award,5,0,9,35,59,152.0,76.0
+highway,Maharashtra,Nashik,award,3,1,21,33,93,175.0,101.0
+highway,Madhya Pradesh,Indore,possession,1,1,14,33,99,91.0,98.0
+irrigation,Karnataka,Satara,verification,4,1,29,44,106,285.0,125.0
+rail,Karnataka,Indore,notification,6,2,33,42,50,357.0,123.0
+rail,Madhya Pradesh,Ahmedabad,notification,2,1,42,27,13,333.0,97.0
+highway,Maharashtra,Nashik,objection,1,2,16,10,65,240.0,101.0
+irrigation,Gujarat,Nashik,notification,6,4,34,41,54,416.0,154.0
+rail,Gujarat,Nagpur,verification,1,1,21,16,99,243.0,98.0
+irrigation,Maharashtra,Pune,compensation,2,0,31,25,99,135.0,101.0
+urban_transit,Karnataka,Pune,notification,6,1,8,37,78,292.0,97.0
+urban_transit,Maharashtra,Indore,notification,6,2,30,6,8,319.0,86.0
+highway,Maharashtra,Ahmedabad,award,6,2,5,30,27,183.0,80.0
+rail,Maharashtra,Indore,possession,6,0,35,31,99,89.0,98.0
+highway,Madhya Pradesh,Nagpur,verification,6,1,30,41,22,299.0,101.0
+irrigation,Maharashtra,Nashik,verification,4,1,14,7,55,228.0,74.0
+irrigation,Maharashtra,Nagpur,verification,5,2,14,37,68,271.0,103.0
+irrigation,Maharashtra,Indore,verification,4,2,39,14,22,309.0,105.0
+irrigation,Maharashtra,Indore,award,2,2,18,8,89,189.0,104.0
+urban_transit,Maharashtra,Satara,compensation,6,2,37,42,77,182.0,121.0
+irrigation,Maharashtra,Indore,verification,1,4,44,37,120,369.0,174.0
+highway,Maharashtra,Nashik,notification,1,2,26,15,21,309.0,86.0
+urban_transit,Madhya Pradesh,Nashik,compensation,5,0,20,48,24,177.0,95.0
+rail,Gujarat,Pune,compensation,4,2,25,28,4,162.0,83.0
+rail,Gujarat,Pune,award,3,0,37,48,39,178.0,87.0
+irrigation,Gujarat,Nashik,notification,4,0,10,47,92,269.0,92.0
+irrigation,Gujarat,Satara,award,5,0,15,35,35,150.0,67.0
+irrigation,Gujarat,Satara,award,1,0,3,48,21,154.0,64.0
+urban_transit,Maharashtra,Nagpur,compensation,1,0,2,39,100,122.0,93.0
+rail,Madhya Pradesh,Satara,compensation,1,1,22,21,89,148.0,103.0
+urban_transit,Gujarat,Pune,possession,5,1,22,30,74,121.0,103.0
+urban_transit,Gujarat,Satara,award,1,0,10,35,79,176.0,94.0
+irrigation,Karnataka,Pune,objection,1,0,27,37,87,227.0,106.0
+highway,Gujarat,Nashik,objection,6,2,36,11,28,236.0,90.0
+irrigation,Madhya Pradesh,Ahmedabad,verification,4,1,3,20,99,228.0,89.0
+highway,Madhya Pradesh,Nashik,award,5,2,19,25,98,193.0,111.0
+highway,Gujarat,Ahmedabad,verification,3,0,14,12,32,197.0,51.0
+irrigation,Madhya Pradesh,Indore,award,1,1,7,21,70,126.0,67.0
+rail,Maharashtra,Nashik,award,4,2,23,23,16,217.0,93.0
+urban_transit,Karnataka,Satara,possession,6,4,39,44,106,207.0,162.0
+urban_transit,Gujarat,Indore,objection,4,2,15,48,0,247.0,87.0
+urban_transit,Gujarat,Nagpur,notification,5,1,8,31,6,262.0,58.0
+irrigation,Maharashtra,Indore,possession,6,4,38,9,117,181.0,150.0
+urban_transit,Madhya Pradesh,Pune,award,3,0,39,9,116,188.0,114.0
+irrigation,Maharashtra,Pune,objection,2,3,23,18,36,279.0,113.0
+urban_transit,Maharashtra,Nashik,award,6,1,3,37,63,176.0,89.0
+rail,Maharashtra,Satara,compensation,1,3,25,15,59,179.0,109.0
+urban_transit,Karnataka,Pune,compensation,4,2,11,31,4,156.0,78.0
+rail,Gujarat,Nagpur,possession,4,1,38,21,81,127.0,110.0
+highway,Maharashtra,Ahmedabad,verification,1,1,44,29,42,309.0,114.0
+irrigation,Madhya Pradesh,Satara,award,6,6,11,17,6,271.0,117.0
+urban_transit,Karnataka,Pune,notification,5,2,41,39,88,368.0,142.0
+irrigation,Gujarat,Ahmedabad,notification,4,3,38,17,7,351.0,104.0
+urban_transit,Gujarat,Nagpur,possession,1,3,18,20,107,138.0,123.0
+rail,Madhya Pradesh,Satara,possession,5,1,7,17,2,89.0,60.0
+urban_transit,Karnataka,Ahmedabad,objection,3,2,37,45,94,294.0,144.0
+rail,Karnataka,Ahmedabad,possession,3,2,34,11,0,141.0,87.0
+irrigation,Maharashtra,Pune,compensation,6,2,44,46,55,197.0,122.0
+highway,Madhya Pradesh,Ahmedabad,award,5,2,44,5,33,236.0,109.0
+rail,Madhya Pradesh,Ahmedabad,possession,5,1,44,27,109,131.0,124.0
+rail,Maharashtra,Nashik,notification,5,0,42,28,14,298.0,80.0
+rail,Madhya Pradesh,Ahmedabad,compensation,6,2,43,15,87,173.0,118.0
+irrigation,Gujarat,Nagpur,verification,4,1,3,42,33,252.0,80.0
+rail,Gujarat,Nashik,compensation,2,0,23,51,75,146.0,100.0
+urban_transit,Gujarat,Indore,verification,5,0,13,14,84,222.0,81.0
+highway,Gujarat,Nashik,notification,6,3,18,37,67,313.0,107.0
+highway,Karnataka,Ahmedabad,objection,5,2,10,13,117,214.0,107.0
+rail,Maharashtra,Indore,objection,3,0,39,14,38,237.0,92.0
+urban_transit,Maharashtra,Pune,verification,4,2,36,20,6,300.0,96.0
+urban_transit,Madhya Pradesh,Nagpur,objection,3,1,4,33,45,207.0,79.0
+highway,Karnataka,Indore,notification,1,1,14,35,0,296.0,72.0
+highway,Karnataka,Ahmedabad,notification,3,1,10,27,67,269.0,82.0
+highway,Karnataka,Nagpur,compensation,2,0,16,4,53,103.0,65.0
+highway,Karnataka,Satara,verification,2,0,21,51,104,247.0,105.0
+urban_transit,Maharashtra,Satara,compensation,5,0,26,29,56,172.0,103.0
+rail,Gujarat,Ahmedabad,objection,4,3,32,38,14,261.0,101.0
+irrigation,Karnataka,Ahmedabad,verification,6,1,4,51,32,245.0,78.0
+urban_transit,Madhya Pradesh,Indore,possession,1,4,4,51,78,167.0,130.0
+highway,Madhya Pradesh,Nagpur,compensation,5,1,9,40,39,157.0,90.0
+irrigation,Maharashtra,Indore,verification,4,2,13,23,58,264.0,94.0
+highway,Maharashtra,Nashik,compensation,5,0,22,31,120,110.0,97.0
+highway,Gujarat,Ahmedabad,compensation,2,5,37,25,47,252.0,144.0
+urban_transit,Maharashtra,Nashik,notification,3,0,30,41,53,308.0,98.0
+highway,Maharashtra,Satara,objection,1,1,37,17,24,225.0,83.0
+urban_transit,Madhya Pradesh,Nashik,notification,1,1,4,51,4,287.0,70.0
+urban_transit,Karnataka,Nashik,notification,4,1,31,17,46,326.0,102.0
+highway,Gujarat,Nashik,verification,4,1,22,45,34,274.0,94.0
+highway,Gujarat,Pune,verification,1,3,45,8,43,310.0,115.0
+rail,Maharashtra,Nagpur,notification,1,2,23,7,55,313.0,98.0
+urban_transit,Gujarat,Nashik,verification,2,4,22,18,12,330.0,112.0
+urban_transit,Maharashtra,Satara,possession,2,3,29,40,66,161.0,124.0
+irrigation,Karnataka,Indore,objection,1,0,44,42,10,263.0,99.0
+urban_transit,Gujarat,Pune,verification,3,2,44,28,83,326.0,137.0
+urban_transit,Madhya Pradesh,Satara,award,2,0,4,13,103,160.0,91.0
+urban_transit,Madhya Pradesh,Indore,award,4,4,16,7,71,212.0,110.0
+urban_transit,Maharashtra,Nashik,compensation,5,2,8,30,113,158.0,116.0
+rail,Karnataka,Indore,compensation,4,3,43,6,76,207.0,129.0
+highway,Madhya Pradesh,Pune,objection,3,4,29,17,74,285.0,131.0
+urban_transit,Maharashtra,Indore,compensation,2,0,38,38,83,169.0,114.0
+urban_transit,Karnataka,Nashik,notification,4,2,31,46,26,335.0,105.0
+urban_transit,Maharashtra,Satara,award,4,2,22,26,66,204.0,105.0
+rail,Maharashtra,Nagpur,verification,4,3,26,28,75,294.0,118.0
+irrigation,Maharashtra,Indore,award,1,2,30,37,26,202.0,93.0
+urban_transit,Gujarat,Ahmedabad,notification,3,1,11,41,5,328.0,89.0
+irrigation,Karnataka,Pune,award,1,1,6,5,39,140.0,60.0
+irrigation,Karnataka,Nashik,notification,6,2,33,38,67,345.0,123.0
+highway,Karnataka,Nashik,possession,4,1,29,51,45,159.0,114.0
+highway,Maharashtra,Nashik,notification,2,3,44,27,109,377.0,154.0
+rail,Madhya Pradesh,Nashik,award,2,1,19,39,34,197.0,91.0
+irrigation,Maharashtra,Nagpur,award,3,2,12,9,4,192.0,74.0
+irrigation,Gujarat,Ahmedabad,compensation,4,2,27,38,62,170.0,108.0
+highway,Gujarat,Pune,award,3,1,29,23,23,192.0,84.0
+highway,Karnataka,Pune,possession,6,2,26,42,106,163.0,137.0
+rail,Maharashtra,Nashik,notification,6,1,14,34,101,285.0,103.0
+urban_transit,Maharashtra,Ahmedabad,compensation,4,1,10,26,44,111.0,69.0
+highway,Maharashtra,Nagpur,award,6,0,40,31,16,221.0,97.0
+highway,Madhya Pradesh,Ahmedabad,notification,6,4,42,16,8,407.0,131.0
+rail,Gujarat,Ahmedabad,notification,4,4,16,31,51,360.0,123.0
+rail,Gujarat,Ahmedabad,possession,6,2,19,34,110,131.0,122.0
+urban_transit,Maharashtra,Satara,notification,6,1,37,31,47,281.0,85.0
+highway,Karnataka,Ahmedabad,notification,5,0,27,22,119,309.0,119.0
+irrigation,Maharashtra,Indore,award,1,0,45,48,10,217.0,96.0
+urban_transit,Madhya Pradesh,Indore,possession,6,1,35,15,48,98.0,84.0
+highway,Karnataka,Indore,possession,3,2,19,11,106,120.0,112.0
+urban_transit,Karnataka,Nagpur,objection,5,2,7,46,72,233.0,104.0
+urban_transit,Madhya Pradesh,Ahmedabad,notification,5,2,31,18,97,276.0,99.0
+rail,Madhya Pradesh,Indore,possession,6,3,26,17,0,158.0,96.0
+rail,Karnataka,Nashik,verification,6,4,14,5,23,294.0,97.0
+highway,Karnataka,Pune,verification,2,1,2,31,18,246.0,70.0
+rail,Gujarat,Indore,objection,5,2,33,49,67,266.0,122.0
+urban_transit,Gujarat,Indore,notification,6,2,42,26,22,350.0,109.0
+urban_transit,Karnataka,Nagpur,verification,6,0,19,44,70,248.0,92.0
+urban_transit,Karnataka,Pune,compensation,5,2,43,40,98,217.0,145.0
+rail,Maharashtra,Satara,compensation,3,1,11,38,77,123.0,88.0
+urban_transit,Maharashtra,Ahmedabad,award,6,1,18,24,25,171.0,74.0
+irrigation,Madhya Pradesh,Ahmedabad,award,4,1,20,35,21,218.0,95.0
+irrigation,Karnataka,Ahmedabad,award,2,1,38,50,107,235.0,138.0
+irrigation,Gujarat,Pune,verification,5,3,4,31,35,284.0,97.0
+irrigation,Gujarat,Indore,possession,4,2,8,10,106,102.0,103.0
+irrigation,Karnataka,Satara,award,6,2,24,37,89,223.0,124.0
+rail,Gujarat,Indore,objection,5,1,12,20,67,206.0,86.0
+highway,Maharashtra,Pune,verification,1,0,37,38,92,247.0,102.0
+rail,Maharashtra,Ahmedabad,objection,2,5,29,29,108,316.0,160.0
+rail,Gujarat,Nagpur,compensation,1,1,33,9,33,140.0,80.0
+irrigation,Madhya Pradesh,Satara,possession,4,2,41,12,111,185.0,147.0
+highway,Maharashtra,Indore,objection,6,3,36,37,95,279.0,138.0
+urban_transit,Madhya Pradesh,Pune,compensation,5,3,39,25,13,232.0,120.0
+highway,Maharashtra,Pune,verification,4,3,22,17,34,288.0,99.0
+rail,Karnataka,Indore,notification,1,1,45,17,90,333.0,123.0
+rail,Madhya Pradesh,Pune,possession,4,3,5,51,30,138.0,98.0
+irrigation,Madhya Pradesh,Pune,notification,5,2,31,11,43,339.0,108.0
+rail,Karnataka,Ahmedabad,verification,3,1,6,25,114,225.0,94.0
+irrigation,Karnataka,Pune,objection,2,0,2,11,8,168.0,44.0
+highway,Maharashtra,Ahmedabad,award,6,1,17,9,42,185.0,84.0
+highway,Gujarat,Pune,objection,2,1,27,41,79,229.0,106.0
+irrigation,Madhya Pradesh,Ahmedabad,possession,5,1,36,13,95,113.0,107.0
+highway,Karnataka,Pune,compensation,1,2,3,16,20,127.0,67.0
+highway,Madhya Pradesh,Pune,award,6,0,27,43,93,176.0,103.0
+rail,Maharashtra,Pune,notification,2,2,32,31,70,325.0,114.0
+irrigation,Maharashtra,Indore,notification,1,3,5,47,53,324.0,106.0
+irrigation,Madhya Pradesh,Nagpur,possession,2,2,41,5,43,126.0,96.0
+urban_transit,Gujarat,Indore,objection,4,3,30,35,35,287.0,119.0
+urban_transit,Maharashtra,Nashik,award,1,1,3,4,93,142.0,80.0
+highway,Gujarat,Nashik,verification,2,3,19,45,62,310.0,122.0
+rail,Madhya Pradesh,Satara,objection,5,2,18,28,84,247.0,114.0
+urban_transit,Maharashtra,Nashik,award,5,3,11,12,52,200.0,97.0
+irrigation,Gujarat,Nagpur,objection,4,1,23,45,47,236.0,98.0
+rail,Maharashtra,Indore,award,3,1,17,14,119,180.0,109.0
+rail,Madhya Pradesh,Satara,award,5,3,28,19,96,228.0,128.0
+rail,Maharashtra,Nagpur,compensation,1,2,27,24,89,163.0,112.0
+highway,Gujarat,Nashik,compensation,2,0,18,45,16,140.0,75.0
+rail,Gujarat,Indore,verification,2,1,6,9,120,218.0,91.0
+highway,Gujarat,Ahmedabad,objection,1,1,43,19,31,262.0,104.0
+highway,Karnataka,Satara,possession,5,0,28,32,111,98.0,106.0
+rail,Karnataka,Nagpur,award,5,4,26,29,77,271.0,144.0
+irrigation,Karnataka,Indore,verification,2,2,36,15,105,306.0,133.0
+highway,Madhya Pradesh,Satara,objection,1,0,3,10,99,160.0,72.0
+urban_transit,Gujarat,Pune,possession,2,2,20,4,54,122.0,94.0
+irrigation,Karnataka,Ahmedabad,award,4,1,27,47,117,191.0,120.0
+urban_transit,Gujarat,Indore,notification,6,1,4,39,17,296.0,77.0
+rail,Gujarat,Satara,notification,5,3,25,22,86,372.0,140.0
+rail,Madhya Pradesh,Pune,award,6,1,6,36,45,185.0,87.0
+irrigation,Gujarat,Indore,verification,3,1,2,24,19,215.0,56.0
+rail,Karnataka,Pune,award,4,0,45,27,74,200.0,108.0
+urban_transit,Karnataka,Satara,compensation,4,1,35,35,44,146.0,90.0
+highway,Maharashtra,Nashik,possession,4,0,43,26,42,145.0,104.0
+highway,Maharashtra,Ahmedabad,award,4,1,28,20,78,170.0,93.0
+highway,Karnataka,Satara,verification,5,2,30,37,79,304.0,125.0
+urban_transit,Madhya Pradesh,Pune,objection,4,1,2,9,63,196.0,77.0
+irrigation,Karnataka,Nagpur,award,1,3,29,32,29,248.0,116.0
+irrigation,Karnataka,Pune,objection,4,2,37,14,17,246.0,92.0
+rail,Madhya Pradesh,Nagpur,compensation,3,2,36,24,94,167.0,118.0
+highway,Maharashtra,Nashik,objection,5,1,40,48,46,267.0,115.0
+urban_transit,Madhya Pradesh,Ahmedabad,notification,6,0,17,39,116,271.0,101.0
+rail,Madhya Pradesh,Pune,verification,5,3,39,45,18,322.0,115.0
+urban_transit,Karnataka,Pune,compensation,2,2,30,9,81,178.0,115.0
+irrigation,Madhya Pradesh,Ahmedabad,verification,6,0,20,29,92,249.0,99.0
+urban_transit,Karnataka,Indore,objection,5,1,27,16,81,222.0,100.0
+irrigation,Karnataka,Nagpur,possession,4,2,45,26,73,154.0,123.0
+urban_transit,Madhya Pradesh,Nashik,compensation,6,0,29,30,110,138.0,107.0
+highway,Gujarat,Ahmedabad,possession,2,3,33,12,43,162.0,113.0
+urban_transit,Madhya Pradesh,Satara,compensation,3,0,34,28,69,152.0,99.0
+rail,Madhya Pradesh,Nagpur,award,6,1,6,29,112,157.0,97.0
+highway,Gujarat,Satara,compensation,6,1,2,47,43,146.0,86.0
+highway,Gujarat,Satara,objection,2,0,5,9,112,158.0,76.0
+irrigation,Gujarat,Ahmedabad,notification,2,0,7,49,102,263.0,92.0
+urban_transit,Karnataka,Ahmedabad,award,1,0,38,48,38,202.0,97.0
+irrigation,Gujarat,Indore,notification,6,2,45,25,15,341.0,103.0
+irrigation,Maharashtra,Satara,objection,5,4,5,19,19,229.0,83.0
+rail,Gujarat,Nagpur,award,2,0,32,42,87,192.0,108.0
+irrigation,Madhya Pradesh,Nagpur,compensation,5,0,27,28,87,144.0,101.0
+rail,Gujarat,Nagpur,notification,2,2,17,38,45,325.0,103.0
+urban_transit,Gujarat,Nagpur,compensation,5,1,13,10,110,120.0,95.0
+urban_transit,Gujarat,Indore,notification,1,4,7,31,36,343.0,109.0
+irrigation,Maharashtra,Nagpur,possession,5,3,9,32,44,117.0,92.0
+highway,Madhya Pradesh,Satara,possession,6,2,43,27,32,160.0,111.0
+highway,Maharashtra,Satara,award,4,4,38,5,107,235.0,137.0
+urban_transit,Gujarat,Nashik,notification,3,1,8,49,102,302.0,112.0
+urban_transit,Karnataka,Pune,objection,2,4,23,6,71,277.0,124.0
+urban_transit,Karnataka,Nashik,possession,6,2,44,12,91,160.0,130.0
+urban_transit,Maharashtra,Ahmedabad,award,3,1,41,23,33,218.0,101.0
+highway,Karnataka,Pune,compensation,2,1,18,38,1,158.0,78.0
+rail,Madhya Pradesh,Indore,objection,1,0,38,50,39,234.0,96.0
+rail,Karnataka,Nagpur,verification,3,3,36,39,7,331.0,114.0
+irrigation,Karnataka,Indore,verification,2,2,39,21,74,293.0,117.0
+irrigation,Karnataka,Ahmedabad,award,2,1,6,50,111,188.0,113.0
+highway,Madhya Pradesh,Nashik,objection,1,0,19,5,51,176.0,65.0
+highway,Gujarat,Nashik,compensation,4,1,17,39,113,156.0,116.0
+urban_transit,Karnataka,Pune,possession,5,0,32,50,76,127.0,110.0
+irrigation,Maharashtra,Nagpur,award,3,0,7,9,61,156.0,74.0
+urban_transit,Maharashtra,Nashik,verification,2,1,40,16,22,293.0,97.0
+rail,Maharashtra,Ahmedabad,award,4,0,14,20,18,155.0,62.0
+urban_transit,Karnataka,Pune,award,6,0,14,19,72,134.0,71.0
+highway,Maharashtra,Ahmedabad,notification,1,1,3,21,15,254.0,55.0
+highway,Madhya Pradesh,Ahmedabad,compensation,1,2,28,16,11,186.0,94.0
+urban_transit,Karnataka,Indore,possession,2,1,11,45,11,74.0,60.0
+irrigation,Madhya Pradesh,Nashik,possession,2,2,39,30,14,132.0,92.0
+urban_transit,Madhya Pradesh,Nashik,notification,6,2,33,51,114,344.0,141.0
+irrigation,Gujarat,Satara,verification,1,1,45,9,74,260.0,101.0
+highway,Maharashtra,Ahmedabad,objection,1,0,38,40,74,231.0,106.0
+highway,Karnataka,Ahmedabad,objection,6,3,7,9,116,214.0,107.0
+irrigation,Madhya Pradesh,Nagpur,notification,1,1,11,29,81,275.0,90.0
+highway,Madhya Pradesh,Indore,award,6,3,20,11,21,221.0,96.0
+highway,Gujarat,Nashik,notification,1,0,16,33,53,269.0,77.0
+rail,Karnataka,Nagpur,award,5,1,40,7,84,199.0,109.0
+irrigation,Karnataka,Pune,objection,5,0,44,13,25,242.0,91.0
+urban_transit,Maharashtra,Ahmedabad,award,4,2,24,33,111,214.0,127.0
+highway,Madhya Pradesh,Pune,possession,6,4,2,4,68,109.0,93.0
+irrigation,Madhya Pradesh,Nagpur,verification,6,2,39,39,58,332.0,132.0
+rail,Madhya Pradesh,Indore,compensation,3,2,12,28,76,150.0,100.0
+rail,Gujarat,Ahmedabad,possession,1,2,21,48,100,131.0,120.0
+irrigation,Gujarat,Indore,notification,2,0,31,32,106,302.0,113.0
+rail,Madhya Pradesh,Indore,objection,2,1,25,24,13,237.0,84.0
+urban_transit,Karnataka,Nashik,compensation,6,1,39,37,33,191.0,108.0
+urban_transit,Karnataka,Nashik,verification,5,1,3,24,89,259.0,100.0
+urban_transit,Gujarat,Satara,verification,3,3,26,27,73,286.0,114.0
+irrigation,Gujarat,Ahmedabad,possession,6,1,11,12,48,89.0,76.0
+irrigation,Karnataka,Nagpur,award,1,1,22,30,36,191.0,88.0
+urban_transit,Karnataka,Satara,verification,1,0,17,35,44,234.0,75.0
+irrigation,Madhya Pradesh,Nagpur,possession,5,1,11,13,61,87.0,79.0
+highway,Madhya Pradesh,Ahmedabad,possession,4,2,45,16,97,151.0,128.0
+urban_transit,Karnataka,Ahmedabad,notification,3,2,30,36,40,347.0,113.0
+irrigation,Maharashtra,Pune,verification,5,0,15,34,52,228.0,75.0
+irrigation,Gujarat,Pune,objection,5,3,42,45,1,283.0,109.0
+irrigation,Maharashtra,Nashik,objection,6,3,6,11,110,205.0,101.0
+urban_transit,Karnataka,Pune,notification,2,2,23,19,10,322.0,88.0
+rail,Karnataka,Satara,award,6,3,6,15,95,218.0,119.0
+urban_transit,Madhya Pradesh,Indore,award,3,1,19,22,38,182.0,83.0
+urban_transit,Gujarat,Pune,verification,4,0,37,44,49,283.0,104.0
+urban_transit,Karnataka,Ahmedabad,notification,5,1,18,20,42,259.0,69.0
+urban_transit,Maharashtra,Indore,possession,4,1,26,31,52,135.0,103.0
+rail,Karnataka,Nagpur,verification,3,2,14,51,45,277.0,100.0
+rail,Gujarat,Nashik,possession,6,2,3,47,8,125.0,82.0
+urban_transit,Madhya Pradesh,Pune,notification,2,0,13,31,4,260.0,55.0
+highway,Maharashtra,Pune,possession,6,7,3,20,18,208.0,127.0
+irrigation,Madhya Pradesh,Indore,award,1,2,16,35,38,209.0,98.0
+irrigation,Gujarat,Nagpur,award,1,2,43,36,85,264.0,144.0
+rail,Gujarat,Pune,award,1,3,5,51,88,220.0,123.0
+irrigation,Madhya Pradesh,Satara,award,4,3,45,4,11,261.0,114.0
+highway,Gujarat,Ahmedabad,possession,1,0,7,17,25,54.0,50.0
+urban_transit,Maharashtra,Ahmedabad,award,6,1,45,44,60,230.0,120.0
+highway,Karnataka,Satara,objection,4,3,26,32,89,294.0,140.0
+irrigation,Karnataka,Ahmedabad,possession,2,1,24,13,29,118.0,84.0
+highway,Gujarat,Nashik,compensation,5,1,5,43,54,115.0,76.0
+highway,Karnataka,Satara,objection,2,1,25,30,53,228.0,95.0
+urban_transit,Maharashtra,Nashik,compensation,1,1,16,23,49,123.0,77.0
+highway,Madhya Pradesh,Indore,award,3,2,21,25,17,188.0,81.0
+urban_transit,Gujarat,Pune,verification,1,0,8,30,115,245.0,103.0
+irrigation,Madhya Pradesh,Pune,award,2,1,18,51,67,205.0,108.0
+irrigation,Madhya Pradesh,Nagpur,verification,4,2,42,44,49,302.0,116.0
+rail,Karnataka,Pune,verification,6,1,31,11,93,239.0,95.0
+rail,Madhya Pradesh,Nagpur,verification,5,3,17,38,101,299.0,130.0
+urban_transit,Gujarat,Nagpur,possession,2,2,23,49,79,150.0,122.0
+irrigation,Gujarat,Satara,possession,6,1,28,14,67,111.0,95.0
+irrigation,Karnataka,Pune,notification,5,1,8,18,72,279.0,87.0
+highway,Karnataka,Satara,award,6,1,25,17,99,190.0,109.0
+highway,Gujarat,Pune,compensation,3,2,18,26,80,153.0,103.0
+highway,Madhya Pradesh,Pune,objection,4,3,33,31,1,311.0,118.0
+irrigation,Maharashtra,Pune,notification,6,2,29,33,52,290.0,92.0
+irrigation,Maharashtra,Nashik,objection,2,0,12,11,71,183.0,75.0
+irrigation,Madhya Pradesh,Pune,objection,3,1,38,10,93,241.0,114.0
+highway,Madhya Pradesh,Nashik,notification,4,1,13,29,120,274.0,103.0
+rail,Madhya Pradesh,Indore,notification,2,2,3,23,95,321.0,115.0
+irrigation,Karnataka,Pune,compensation,5,1,34,24,43,191.0,108.0
+highway,Madhya Pradesh,Pune,award,6,1,28,43,24,193.0,88.0
+rail,Maharashtra,Satara,notification,4,2,31,38,101,345.0,134.0
+highway,Maharashtra,Ahmedabad,possession,6,1,31,23,83,129.0,111.0
+rail,Maharashtra,Indore,notification,3,0,34,10,9,285.0,69.0
+highway,Madhya Pradesh,Nagpur,verification,5,5,37,40,94,366.0,164.0
+irrigation,Maharashtra,Nagpur,verification,5,2,24,36,2,261.0,77.0
+irrigation,Madhya Pradesh,Pune,verification,5,1,23,22,80,240.0,92.0
+urban_transit,Madhya Pradesh,Ahmedabad,objection,4,1,35,18,33,250.0,98.0
+rail,Gujarat,Nashik,objection,1,3,25,37,57,266.0,117.0
+highway,Maharashtra,Nagpur,award,6,2,31,22,111,217.0,128.0
+highway,Madhya Pradesh,Indore,possession,6,1,37,10,1,117.0,76.0
+rail,Karnataka,Pune,possession,5,2,38,26,43,144.0,107.0
+irrigation,Karnataka,Nagpur,award,5,3,38,21,110,235.0,139.0
+urban_transit,Madhya Pradesh,Indore,verification,2,0,13,21,23,234.0,65.0
+rail,Maharashtra,Satara,notification,5,1,35,41,104,326.0,126.0
+highway,Gujarat,Nashik,objection,2,2,21,8,89,242.0,111.0
+rail,Madhya Pradesh,Nagpur,award,1,2,25,21,71,219.0,114.0
+irrigation,Madhya Pradesh,Nashik,objection,2,2,26,49,111,275.0,140.0
+urban_transit,Karnataka,Nagpur,compensation,5,1,7,29,8,137.0,68.0
+irrigation,Madhya Pradesh,Ahmedabad,objection,2,3,29,25,69,269.0,122.0
+irrigation,Karnataka,Pune,compensation,5,0,9,38,19,100.0,55.0
+highway,Maharashtra,Ahmedabad,compensation,2,3,16,44,0,174.0,88.0
+highway,Gujarat,Nagpur,possession,3,3,17,11,72,134.0,108.0
+highway,Karnataka,Nashik,verification,2,1,10,46,79,253.0,98.0
+rail,Madhya Pradesh,Nagpur,objection,3,3,39,23,107,313.0,156.0
+urban_transit,Gujarat,Indore,objection,3,1,33,50,101,274.0,136.0
+rail,Gujarat,Satara,award,5,1,16,39,49,192.0,93.0
+highway,Maharashtra,Ahmedabad,objection,5,0,34,20,57,222.0,92.0
+irrigation,Maharashtra,Nagpur,award,3,3,9,9,83,201.0,107.0
+rail,Gujarat,Pune,objection,4,1,28,27,53,237.0,99.0
+rail,Gujarat,Nagpur,award,2,0,18,17,14,154.0,60.0
+highway,Maharashtra,Satara,possession,2,2,33,24,95,141.0,122.0
+rail,Maharashtra,Nashik,compensation,1,5,6,4,115,199.0,136.0
+highway,Madhya Pradesh,Nashik,possession,6,1,13,18,100,99.0,100.0
+urban_transit,Karnataka,Indore,objection,1,2,5,48,26,207.0,76.0
+irrigation,Karnataka,Ahmedabad,compensation,6,1,35,50,63,188.0,118.0
+highway,Gujarat,Ahmedabad,award,1,0,38,19,61,191.0,97.0
+irrigation,Karnataka,Nagpur,award,6,3,17,49,115,236.0,141.0
+rail,Karnataka,Indore,compensation,6,3,37,45,39,208.0,121.0
+urban_transit,Karnataka,Indore,objection,1,4,29,35,78,311.0,146.0
+urban_transit,Karnataka,Nagpur,possession,2,2,3,22,27,103.0,76.0
+rail,Gujarat,Indore,notification,1,1,8,16,38,279.0,74.0
+rail,Madhya Pradesh,Nagpur,notification,2,0,45,36,61,325.0,110.0
+irrigation,Maharashtra,Indore,objection,2,2,35,39,11,266.0,102.0
+highway,Madhya Pradesh,Satara,verification,3,1,2,25,38,247.0,77.0
+rail,Madhya Pradesh,Nashik,compensation,2,2,9,21,3,151.0,73.0
+urban_transit,Maharashtra,Pune,compensation,3,1,12,30,101,167.0,115.0
+rail,Maharashtra,Pune,notification,3,3,38,18,4,358.0,106.0
+highway,Maharashtra,Pune,verification,5,0,23,17,96,250.0,100.0
+highway,Maharashtra,Satara,objection,6,0,41,37,100,253.0,125.0
+urban_transit,Karnataka,Nagpur,notification,5,0,32,28,98,301.0,109.0
+highway,Gujarat,Satara,award,2,1,44,47,64,239.0,126.0
+rail,Madhya Pradesh,Ahmedabad,possession,3,1,14,41,14,119.0,82.0
+urban_transit,Gujarat,Ahmedabad,objection,5,3,43,12,83,274.0,129.0
+irrigation,Madhya Pradesh,Satara,possession,5,2,10,37,37,131.0,95.0
+irrigation,Maharashtra,Nashik,notification,5,0,36,23,53,306.0,96.0
+irrigation,Gujarat,Nagpur,verification,5,1,38,36,62,286.0,110.0
+irrigation,Madhya Pradesh,Pune,compensation,2,2,29,16,35,152.0,88.0
+highway,Maharashtra,Indore,verification,1,0,43,18,31,245.0,78.0
+irrigation,Maharashtra,Indore,possession,4,1,40,10,58,124.0,99.0
+urban_transit,Karnataka,Pune,possession,3,2,31,25,83,143.0,119.0
+rail,Karnataka,Ahmedabad,objection,5,2,18,22,111,250.0,124.0
+urban_transit,Madhya Pradesh,Nashik,compensation,1,2,3,42,23,182.0,96.0
+rail,Madhya Pradesh,Pune,possession,6,3,20,45,103,169.0,140.0
+urban_transit,Madhya Pradesh,Satara,possession,1,3,26,34,53,144.0,111.0
+urban_transit,Karnataka,Ahmedabad,possession,2,0,10,14,94,59.0,77.0
+irrigation,Gujarat,Satara,verification,4,3,40,37,0,325.0,110.0
+highway,Madhya Pradesh,Nashik,award,4,0,16,27,99,163.0,95.0
+urban_transit,Karnataka,Indore,objection,6,2,3,20,92,200.0,92.0
+irrigation,Maharashtra,Satara,notification,5,2,30,45,113,319.0,128.0
+irrigation,Karnataka,Pune,award,2,4,28,26,41,268.0,130.0
+highway,Maharashtra,Satara,award,2,0,16,16,51,151.0,71.0
+highway,Maharashtra,Nagpur,award,2,3,38,35,117,250.0,149.0
+highway,Maharashtra,Pune,notification,6,4,35,19,119,367.0,151.0
+irrigation,Madhya Pradesh,Nagpur,notification,5,2,45,22,95,360.0,139.0
+urban_transit,Maharashtra,Nagpur,possession,3,2,42,30,24,167.0,112.0
+highway,Maharashtra,Pune,award,2,2,8,32,90,194.0,108.0
+urban_transit,Gujarat,Pune,possession,5,2,39,46,53,142.0,112.0
+irrigation,Madhya Pradesh,Satara,compensation,1,1,17,25,92,143.0,101.0
+highway,Maharashtra,Pune,possession,2,4,23,5,49,167.0,117.0
+urban_transit,Maharashtra,Pune,possession,3,1,36,30,60,126.0,103.0
+rail,Gujarat,Indore,notification,4,2,12,11,37,307.0,88.0
+urban_transit,Karnataka,Indore,compensation,5,4,20,29,32,209.0,115.0
+urban_transit,Maharashtra,Nagpur,objection,6,1,39,16,53,245.0,103.0
+highway,Karnataka,Indore,award,6,1,44,18,117,187.0,117.0
+urban_transit,Karnataka,Ahmedabad,compensation,4,0,20,15,83,133.0,91.0
+urban_transit,Maharashtra,Satara,possession,6,2,14,32,105,120.0,114.0
+highway,Gujarat,Pune,compensation,1,1,41,6,35,144.0,83.0
+irrigation,Madhya Pradesh,Nagpur,verification,2,1,45,47,31,302.0,109.0
+urban_transit,Gujarat,Nashik,award,4,2,9,40,104,243.0,136.0
+irrigation,Karnataka,Nashik,notification,6,2,8,32,33,309.0,90.0
+rail,Maharashtra,Pune,award,3,1,29,11,75,185.0,98.0
+urban_transit,Madhya Pradesh,Ahmedabad,objection,5,4,14,49,91,274.0,134.0
+rail,Karnataka,Satara,notification,1,1,20,28,56,304.0,96.0
+rail,Maharashtra,Pune,objection,2,1,3,5,9,189.0,55.0
+highway,Maharashtra,Nashik,objection,3,0,19,34,19,179.0,59.0
+highway,Maharashtra,Nashik,award,5,1,20,19,117,165.0,103.0
+irrigation,Karnataka,Ahmedabad,notification,6,2,6,43,81,313.0,109.0
+highway,Karnataka,Pune,compensation,4,0,32,35,51,144.0,90.0
+urban_transit,Gujarat,Indore,compensation,5,1,42,25,60,184.0,113.0
+urban_transit,Gujarat,Satara,verification,6,1,10,50,76,234.0,89.0
+highway,Maharashtra,Indore,award,1,1,2,4,18,112.0,39.0
+highway,Maharashtra,Ahmedabad,notification,4,2,8,43,38,315.0,96.0
+irrigation,Gujarat,Indore,notification,1,2,25,28,29,292.0,83.0
+highway,Madhya Pradesh,Indore,objection,6,3,21,17,40,252.0,102.0
+urban_transit,Madhya Pradesh,Nagpur,verification,2,1,15,38,53,264.0,94.0
+urban_transit,Karnataka,Indore,verification,6,3,10,32,61,301.0,114.0
+irrigation,Madhya Pradesh,Satara,objection,6,1,28,39,68,258.0,115.0
+irrigation,Karnataka,Satara,notification,6,0,38,14,107,282.0,103.0
+highway,Gujarat,Nagpur,objection,5,4,14,44,104,273.0,137.0
+urban_transit,Maharashtra,Nashik,notification,1,1,41,35,65,336.0,117.0
+irrigation,Maharashtra,Indore,notification,2,1,14,38,14,307.0,82.0
+irrigation,Gujarat,Indore,objection,6,1,16,33,114,231.0,116.0
+irrigation,Madhya Pradesh,Pune,objection,5,3,18,37,37,279.0,115.0
+urban_transit,Maharashtra,Pune,objection,6,2,31,38,113,259.0,133.0
+irrigation,Karnataka,Nashik,compensation,4,4,44,32,84,242.0,153.0
+irrigation,Madhya Pradesh,Ahmedabad,possession,5,3,14,7,97,130.0,114.0
+highway,Madhya Pradesh,Nashik,verification,1,0,44,36,24,272.0,91.0
+highway,Maharashtra,Ahmedabad,compensation,4,0,44,49,110,174.0,128.0
+irrigation,Karnataka,Satara,notification,6,0,5,6,15,240.0,45.0
+irrigation,Madhya Pradesh,Pune,verification,6,0,45,18,109,297.0,129.0
+highway,Madhya Pradesh,Indore,compensation,6,3,29,17,77,177.0,115.0
+highway,Gujarat,Pune,compensation,1,1,44,5,43,164.0,96.0
+rail,Gujarat,Indore,award,6,0,22,34,49,156.0,76.0
+highway,Madhya Pradesh,Satara,award,5,3,7,29,56,193.0,96.0
+irrigation,Karnataka,Nashik,notification,1,0,4,40,45,251.0,65.0
+urban_transit,Maharashtra,Satara,compensation,6,1,11,51,24,140.0,79.0
+irrigation,Maharashtra,Ahmedabad,objection,5,1,37,4,67,233.0,100.0
+rail,Gujarat,Satara,possession,6,3,12,7,67,141.0,108.0
+irrigation,Gujarat,Pune,objection,6,1,12,38,2,208.0,67.0
+highway,Madhya Pradesh,Satara,verification,3,5,34,42,62,359.0,149.0
+highway,Karnataka,Pune,notification,4,2,32,40,14,342.0,103.0
+highway,Maharashtra,Nagpur,verification,3,0,28,47,118,255.0,114.0
+urban_transit,Maharashtra,Pune,objection,3,0,31,31,15,199.0,68.0
+rail,Gujarat,Nagpur,compensation,2,3,22,50,4,188.0,98.0
+rail,Maharashtra,Nagpur,objection,1,2,18,28,79,238.0,108.0
+urban_transit,Maharashtra,Indore,possession,2,2,40,7,75,169.0,127.0
+rail,Madhya Pradesh,Nashik,verification,1,0,10,28,30,226.0,65.0
+rail,Madhya Pradesh,Pune,possession,4,0,34,51,0,126.0,83.0
+highway,Karnataka,Indore,objection,3,1,43,37,4,282.0,106.0
+urban_transit,Maharashtra,Pune,verification,1,2,7,12,18,250.0,72.0
+highway,Karnataka,Pune,objection,2,1,29,8,14,225.0,78.0
+rail,Gujarat,Nagpur,notification,5,1,9,33,37,294.0,83.0
+irrigation,Karnataka,Ahmedabad,compensation,5,3,13,38,32,182.0,102.0
+urban_transit,Maharashtra,Nashik,possession,1,0,25,46,64,137.0,108.0
+highway,Madhya Pradesh,Nashik,verification,3,4,12,40,114,299.0,135.0
+highway,Maharashtra,Satara,objection,3,0,32,15,101,206.0,100.0
+irrigation,Karnataka,Satara,compensation,3,1,29,20,12,163.0,84.0
+urban_transit,Gujarat,Indore,possession,2,2,14,48,54,158.0,115.0
+irrigation,Karnataka,Nagpur,award,5,0,22,23,85,161.0,90.0
+highway,Karnataka,Nagpur,verification,4,3,36,48,47,339.0,133.0
+highway,Karnataka,Satara,verification,4,3,31,4,27,303.0,103.0
+rail,Madhya Pradesh,Pune,notification,6,0,15,33,82,277.0,91.0
+highway,Gujarat,Satara,award,1,1,4,9,81,137.0,74.0
+rail,Karnataka,Pune,possession,5,4,24,41,74,164.0,129.0
+highway,Maharashtra,Indore,compensation,2,1,6,30,68,154.0,97.0
+irrigation,Karnataka,Pune,objection,4,2,24,29,71,240.0,107.0
+urban_transit,Karnataka,Nashik,compensation,6,2,44,21,58,214.0,127.0
+highway,Gujarat,Nagpur,objection,5,1,39,18,112,246.0,124.0
+rail,Karnataka,Nashik,objection,4,1,33,39,70,251.0,114.0
+rail,Madhya Pradesh,Pune,verification,4,1,34,27,112,262.0,115.0
+irrigation,Gujarat,Nagpur,notification,5,0,44,16,7,318.0,86.0
+irrigation,Karnataka,Satara,notification,1,1,31,47,57,319.0,107.0
+rail,Karnataka,Satara,possession,1,2,32,13,20,135.0,92.0
+urban_transit,Gujarat,Pune,award,5,1,9,43,88,156.0,90.0
+rail,Maharashtra,Satara,objection,1,4,23,22,117,285.0,146.0
+urban_transit,Madhya Pradesh,Nagpur,verification,5,1,19,34,84,295.0,119.0
+rail,Maharashtra,Nagpur,verification,3,2,4,46,46,261.0,91.0
+urban_transit,Gujarat,Indore,verification,6,3,25,11,40,283.0,99.0
+rail,Madhya Pradesh,Nagpur,award,5,1,36,40,90,218.0,123.0
+rail,Madhya Pradesh,Pune,award,3,0,21,31,56,174.0,86.0
+rail,Gujarat,Satara,notification,4,1,10,35,6,295.0,73.0
+urban_transit,Madhya Pradesh,Indore,objection,2,0,8,35,72,183.0,78.0
+irrigation,Karnataka,Ahmedabad,award,3,1,25,11,47,178.0,84.0
+rail,Madhya Pradesh,Ahmedabad,compensation,1,4,41,23,35,230.0,129.0
+rail,Gujarat,Ahmedabad,objection,6,1,11,48,55,253.0,107.0
+highway,Maharashtra,Nashik,award,1,0,22,30,96,170.0,98.0
+rail,Maharashtra,Nagpur,possession,4,1,43,11,35,140.0,99.0
+highway,Karnataka,Indore,compensation,4,1,2,10,23,114.0,60.0
+irrigation,Madhya Pradesh,Ahmedabad,notification,1,4,16,24,10,352.0,104.0
+urban_transit,Maharashtra,Satara,notification,4,1,2,36,96,263.0,89.0
+rail,Karnataka,Satara,verification,6,1,5,9,13,223.0,56.0
+highway,Gujarat,Ahmedabad,notification,4,0,39,11,1,279.0,64.0
+irrigation,Madhya Pradesh,Nashik,compensation,3,2,23,21,20,172.0,91.0
+urban_transit,Gujarat,Indore,notification,1,0,24,18,21,266.0,64.0
+urban_transit,Maharashtra,Satara,compensation,2,3,6,26,62,156.0,98.0
+rail,Karnataka,Nagpur,verification,3,1,6,32,7,227.0,59.0
+rail,Maharashtra,Ahmedabad,possession,6,0,4,40,88,76.0,85.0
+highway,Gujarat,Nashik,verification,5,1,30,43,57,276.0,104.0
+irrigation,Gujarat,Satara,objection,6,2,14,42,67,211.0,93.0
+irrigation,Maharashtra,Indore,objection,3,0,11,44,67,205.0,87.0
+irrigation,Madhya Pradesh,Indore,verification,1,2,32,27,39,293.0,105.0
+highway,Gujarat,Nashik,possession,3,3,36,36,84,147.0,125.0
+highway,Madhya Pradesh,Ahmedabad,compensation,1,1,9,26,4,128.0,63.0
+highway,Gujarat,Indore,compensation,2,1,11,46,49,148.0,90.0
+urban_transit,Gujarat,Nashik,verification,4,1,26,35,108,262.0,114.0
+irrigation,Madhya Pradesh,Pune,objection,4,4,40,48,36,316.0,138.0
+urban_transit,Karnataka,Satara,verification,1,1,27,49,54,289.0,109.0
+rail,Maharashtra,Satara,notification,1,3,10,9,48,287.0,84.0
+rail,Karnataka,Ahmedabad,objection,5,1,44,17,115,262.0,133.0
+irrigation,Madhya Pradesh,Ahmedabad,notification,3,0,2,8,117,221.0,72.0
+urban_transit,Gujarat,Indore,objection,5,2,35,30,46,274.0,116.0
+highway,Maharashtra,Nagpur,objection,4,4,32,11,95,282.0,137.0
+rail,Maharashtra,Ahmedabad,objection,6,0,17,9,118,172.0,87.0
+urban_transit,Madhya Pradesh,Nagpur,notification,2,1,44,47,115,357.0,147.0
+highway,Madhya Pradesh,Nagpur,verification,2,4,28,39,107,341.0,154.0
+highway,Karnataka,Pune,compensation,3,1,39,26,74,169.0,111.0
+rail,Gujarat,Nagpur,compensation,2,2,37,22,14,178.0,94.0
+irrigation,Karnataka,Pune,objection,1,4,45,32,52,329.0,148.0
+irrigation,Madhya Pradesh,Indore,notification,1,1,41,44,117,357.0,146.0
+irrigation,Gujarat,Indore,compensation,6,3,39,17,31,206.0,114.0
+highway,Madhya Pradesh,Ahmedabad,notification,2,3,6,7,23,279.0,70.0
+rail,Madhya Pradesh,Indore,compensation,2,2,2,37,92,144.0,102.0
+highway,Maharashtra,Satara,verification,1,2,19,39,73,277.0,109.0
+urban_transit,Gujarat,Ahmedabad,possession,1,4,29,6,42,138.0,102.0
+rail,Gujarat,Nagpur,objection,2,2,16,14,90,243.0,112.0
+irrigation,Madhya Pradesh,Pune,award,1,0,18,19,120,137.0,90.0
+irrigation,Gujarat,Satara,verification,6,2,31,4,110,308.0,133.0
+highway,Karnataka,Satara,verification,4,0,42,16,92,261.0,106.0
+highway,Karnataka,Nagpur,verification,5,2,10,30,64,260.0,95.0
+rail,Madhya Pradesh,Nagpur,objection,4,0,7,37,1,179.0,51.0
+urban_transit,Gujarat,Ahmedabad,possession,1,4,38,34,38,181.0,125.0
+rail,Gujarat,Satara,objection,1,2,5,4,12,209.0,66.0
+irrigation,Karnataka,Nagpur,possession,4,1,12,12,15,75.0,58.0
+rail,Karnataka,Pune,notification,1,2,44,6,87,332.0,122.0
+rail,Maharashtra,Nagpur,verification,5,0,44,32,8,249.0,74.0
+urban_transit,Gujarat,Nashik,notification,6,0,41,47,26,327.0,100.0
+urban_transit,Madhya Pradesh,Satara,compensation,4,2,32,21,120,163.0,124.0
+urban_transit,Karnataka,Indore,possession,1,1,4,6,1,81.0,53.0
+irrigation,Maharashtra,Indore,possession,3,2,39,29,12,153.0,100.0
+urban_transit,Karnataka,Nashik,possession,3,0,3,50,96,80.0,91.0
+highway,Gujarat,Pune,award,5,3,22,23,94,211.0,119.0
+highway,Maharashtra,Nashik,award,3,3,14,37,60,238.0,120.0
+irrigation,Maharashtra,Indore,possession,3,1,44,14,64,136.0,108.0
+irrigation,Karnataka,Pune,verification,2,3,13,11,33,284.0,95.0
+rail,Gujarat,Pune,objection,1,2,33,32,112,271.0,138.0
+rail,Madhya Pradesh,Ahmedabad,possession,2,3,41,51,81,202.0,151.0
+rail,Madhya Pradesh,Nagpur,possession,5,1,8,17,4,88.0,60.0
+irrigation,Madhya Pradesh,Ahmedabad,verification,4,3,6,32,64,289.0,109.0
+urban_transit,Gujarat,Nagpur,possession,2,2,4,48,74,150.0,117.0
+irrigation,Gujarat,Satara,compensation,1,1,41,46,92,185.0,127.0
+highway,Maharashtra,Nashik,objection,5,2,44,14,75,245.0,113.0
+urban_transit,Madhya Pradesh,Nashik,objection,5,3,43,51,53,293.0,133.0
+urban_transit,Maharashtra,Pune,verification,5,2,45,39,56,313.0,123.0
+urban_transit,Madhya Pradesh,Pune,compensation,2,1,12,42,107,173.0,121.0
+highway,Gujarat,Nashik,verification,2,3,3,31,13,266.0,81.0
+irrigation,Gujarat,Satara,notification,4,1,4,41,19,275.0,69.0
+urban_transit,Karnataka,Pune,possession,1,3,5,39,63,132.0,106.0
+rail,Maharashtra,Nashik,possession,2,1,22,46,93,131.0,117.0
+rail,Maharashtra,Nagpur,compensation,3,3,41,40,86,222.0,144.0
+rail,Gujarat,Satara,possession,1,0,41,20,28,110.0,83.0
+irrigation,Gujarat,Pune,notification,1,3,5,9,53,310.0,95.0
+urban_transit,Maharashtra,Nashik,possession,1,0,9,45,113,70.0,92.0
+urban_transit,Maharashtra,Nashik,verification,5,0,45,11,62,273.0,101.0
+rail,Maharashtra,Nashik,notification,6,1,40,5,47,288.0,85.0
+irrigation,Gujarat,Satara,notification,5,5,27,8,116,369.0,150.0
+rail,Gujarat,Nagpur,notification,3,0,31,19,4,296.0,73.0
+urban_transit,Karnataka,Satara,verification,5,6,5,11,79,309.0,125.0
+irrigation,Karnataka,Pune,verification,6,0,29,40,37,247.0,81.0
+highway,Madhya Pradesh,Nashik,award,4,1,7,32,119,147.0,95.0
+irrigation,Karnataka,Pune,possession,3,1,21,31,88,121.0,108.0
+irrigation,Maharashtra,Nagpur,compensation,6,1,2,12,79,118.0,81.0
+urban_transit,Maharashtra,Nashik,possession,5,2,42,23,37,170.0,116.0
+urban_transit,Karnataka,Nagpur,verification,5,1,39,14,47,291.0,104.0
+urban_transit,Maharashtra,Nagpur,award,1,0,11,6,8,141.0,50.0
+highway,Karnataka,Nagpur,possession,3,1,15,47,46,112.0,91.0
+urban_transit,Karnataka,Pune,award,3,1,3,4,105,186.0,103.0
+rail,Gujarat,Nagpur,notification,6,0,13,35,57,263.0,76.0
+highway,Maharashtra,Pune,objection,5,1,5,51,2,208.0,67.0
+irrigation,Karnataka,Nagpur,possession,6,1,10,29,46,111.0,87.0
+rail,Karnataka,Satara,verification,1,0,33,7,31,246.0,75.0
+highway,Gujarat,Nagpur,award,5,2,20,27,57,213.0,106.0
+irrigation,Madhya Pradesh,Ahmedabad,award,6,1,3,44,87,161.0,91.0
+urban_transit,Madhya Pradesh,Pune,compensation,3,2,23,31,41,203.0,114.0
+highway,Maharashtra,Nagpur,compensation,2,2,36,22,5,191.0,97.0
+highway,Karnataka,Pune,verification,5,2,5,20,23,252.0,75.0
+rail,Karnataka,Ahmedabad,objection,3,0,18,6,9,165.0,45.0
+urban_transit,Maharashtra,Ahmedabad,verification,1,4,17,36,108,323.0,144.0
+urban_transit,Karnataka,Pune,verification,2,1,41,4,35,264.0,87.0
+rail,Madhya Pradesh,Ahmedabad,notification,3,0,2,30,100,241.0,79.0
+highway,Madhya Pradesh,Ahmedabad,possession,2,4,5,38,83,157.0,125.0
+urban_transit,Karnataka,Satara,award,4,0,32,6,26,162.0,69.0
+urban_transit,Madhya Pradesh,Nashik,possession,4,4,42,33,41,216.0,143.0
+irrigation,Madhya Pradesh,Satara,compensation,3,4,28,49,12,237.0,125.0
+rail,Maharashtra,Ahmedabad,verification,3,2,40,5,20,279.0,90.0
+irrigation,Karnataka,Ahmedabad,verification,3,2,3,29,5,251.0,69.0
+irrigation,Madhya Pradesh,Ahmedabad,notification,4,1,16,41,25,289.0,79.0
+irrigation,Maharashtra,Satara,objection,2,0,23,37,100,245.0,118.0
+irrigation,Karnataka,Pune,verification,1,0,4,19,12,205.0,47.0
+urban_transit,Madhya Pradesh,Nashik,award,6,3,30,8,98,214.0,121.0
+irrigation,Madhya Pradesh,Nagpur,objection,3,1,38,33,17,251.0,95.0
+irrigation,Madhya Pradesh,Nagpur,notification,5,1,12,40,45,280.0,81.0
+highway,Madhya Pradesh,Ahmedabad,notification,2,2,22,50,104,351.0,138.0
+highway,Gujarat,Nashik,objection,5,0,22,31,114,214.0,108.0
+irrigation,Karnataka,Nashik,compensation,6,1,27,6,71,152.0,97.0
+irrigation,Karnataka,Ahmedabad,verification,5,0,20,23,62,240.0,83.0
+highway,Gujarat,Indore,award,3,0,5,33,36,137.0,60.0
+irrigation,Maharashtra,Indore,notification,6,0,3,31,56,266.0,74.0
+rail,Madhya Pradesh,Satara,compensation,1,1,35,9,67,147.0,95.0
+highway,Madhya Pradesh,Nashik,objection,3,1,21,13,30,220.0,80.0
+highway,Karnataka,Ahmedabad,objection,2,1,15,9,93,209.0,95.0
+highway,Gujarat,Pune,notification,2,2,12,16,27,301.0,82.0
+rail,Gujarat,Nagpur,compensation,6,0,39,48,110,164.0,123.0
+rail,Madhya Pradesh,Satara,verification,4,2,21,46,110,265.0,118.0
+urban_transit,Karnataka,Indore,award,5,2,8,10,101,184.0,104.0
+highway,Madhya Pradesh,Ahmedabad,award,2,4,33,17,88,252.0,138.0
+rail,Maharashtra,Nagpur,possession,4,2,8,25,75,119.0,101.0
+rail,Madhya Pradesh,Ahmedabad,notification,4,2,33,34,45,341.0,113.0
+urban_transit,Madhya Pradesh,Nashik,award,1,5,25,40,3,268.0,119.0
+irrigation,Karnataka,Pune,possession,4,2,33,24,68,143.0,114.0
+urban_transit,Maharashtra,Nashik,compensation,2,0,35,4,33,118.0,68.0
+rail,Maharashtra,Ahmedabad,possession,6,0,35,5,33,97.0,76.0
+rail,Karnataka,Nashik,possession,5,4,21,42,120,164.0,145.0
+highway,Karnataka,Ahmedabad,verification,5,2,38,17,60,292.0,111.0
+urban_transit,Gujarat,Indore,compensation,1,1,14,16,115,154.0,113.0
+irrigation,Gujarat,Ahmedabad,award,3,3,15,19,81,201.0,109.0
+highway,Madhya Pradesh,Nashik,verification,1,4,41,35,50,348.0,139.0
+urban_transit,Madhya Pradesh,Satara,award,6,1,3,12,6,137.0,48.0
+urban_transit,Madhya Pradesh,Nagpur,possession,3,0,44,25,76,125.0,107.0
+irrigation,Gujarat,Satara,notification,6,2,16,19,79,322.0,111.0
+highway,Gujarat,Satara,possession,5,1,19,9,70,103.0,90.0
+rail,Karnataka,Ahmedabad,verification,6,1,20,49,97,262.0,111.0
+urban_transit,Gujarat,Pune,award,4,2,7,19,95,164.0,94.0
+highway,Madhya Pradesh,Satara,verification,1,3,4,4,72,263.0,96.0
+urban_transit,Karnataka,Ahmedabad,award,4,0,23,47,16,173.0,74.0
+urban_transit,Madhya Pradesh,Satara,verification,3,0,14,26,83,240.0,90.0
+rail,Madhya Pradesh,Nashik,verification,5,4,30,28,72,315.0,129.0
+urban_transit,Karnataka,Nashik,award,3,0,4,45,52,156.0,76.0
+urban_transit,Karnataka,Nagpur,possession,2,1,31,32,103,122.0,116.0
+rail,Gujarat,Nashik,notification,4,1,3,48,79,255.0,81.0
+highway,Maharashtra,Pune,notification,1,1,32,30,101,317.0,120.0
+rail,Gujarat,Nashik,possession,5,1,36,46,25,144.0,101.0
+irrigation,Karnataka,Ahmedabad,objection,5,3,2,8,83,204.0,91.0
+urban_transit,Gujarat,Ahmedabad,compensation,4,0,34,22,50,154.0,93.0
+rail,Gujarat,Pune,compensation,2,0,33,24,117,144.0,112.0
+urban_transit,Madhya Pradesh,Pune,award,5,1,25,14,31,162.0,72.0
+urban_transit,Gujarat,Satara,compensation,6,4,35,41,32,233.0,131.0
+irrigation,Madhya Pradesh,Pune,notification,2,3,8,29,33,329.0,100.0
+highway,Madhya Pradesh,Pune,objection,6,1,45,37,3,246.0,90.0
+rail,Karnataka,Ahmedabad,compensation,6,1,12,35,36,132.0,77.0
+highway,Gujarat,Indore,compensation,5,1,39,7,85,181.0,117.0
+highway,Maharashtra,Nashik,notification,5,1,19,8,109,300.0,109.0
+rail,Gujarat,Pune,verification,5,2,38,38,38,329.0,123.0
+urban_transit,Karnataka,Nashik,objection,3,2,45,24,104,270.0,135.0
+rail,Karnataka,Pune,notification,6,0,14,48,111,278.0,103.0
+rail,Gujarat,Indore,possession,1,2,17,51,88,147.0,123.0
+irrigation,Gujarat,Nagpur,verification,2,2,3,25,78,265.0,100.0
+urban_transit,Madhya Pradesh,Nashik,verification,2,3,21,7,9,284.0,87.0
+irrigation,Gujarat,Satara,award,1,0,38,33,41,183.0,88.0
+highway,Maharashtra,Nashik,possession,1,1,40,44,56,151.0,116.0
+urban_transit,Karnataka,Indore,compensation,3,0,34,21,83,127.0,92.0
+urban_transit,Karnataka,Ahmedabad,possession,6,2,26,40,111,152.0,134.0
+urban_transit,Gujarat,Ahmedabad,notification,1,2,41,37,42,355.0,120.0
+highway,Maharashtra,Nashik,notification,4,6,14,23,80,393.0,150.0
+urban_transit,Maharashtra,Pune,objection,3,4,16,24,115,279.0,141.0
+irrigation,Gujarat,Satara,possession,1,1,6,7,48,110.0,83.0

@@ -1,0 +1,35 @@
+name: Judging day API keepalive
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 12 September in Asia/Kolkata (UTC+05:30), every ten minutes.
+    # The script below also checks the year because cron has no year field.
+    - cron: "37,47,57 18 11 9 *"
+    - cron: "7,17,27,37,47,57 19-23 11 9 *"
+    - cron: "7,17,27,37,47,57 0-17 12 9 *"
+    - cron: "7,17,27 18 12 9 *"
+
+permissions: {}
+
+concurrency:
+  group: api-keepalive
+  cancel-in-progress: false
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Wake API and check database readiness
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          if [ "$EVENT_NAME" != "workflow_dispatch" ] && \
+             [ "$(TZ=Asia/Kolkata date +%F)" != "2026-09-12" ]; then
+            echo "Outside the authorized judging day; no request sent."
+            exit 0
+          fi
+          curl --fail --silent --show-error --connect-timeout 10 --max-time 80 \
+            --retry 1 --retry-delay 5 --retry-max-time 165 \
+            https://bhoomsetu-api.onrender.com/ready

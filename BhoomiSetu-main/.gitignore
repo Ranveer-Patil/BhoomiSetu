@@ -1,0 +1,28 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+
+# JavaScript
+node_modules/
+.next/
+*.tsbuildinfo
+coverage/
+.deck-build/
+
+# Editors and operating systems
+.DS_Store
+.idea/
+.vscode/
+
+# Generated models and local data
+*.pkl
+*.joblib
+*.sqlite3

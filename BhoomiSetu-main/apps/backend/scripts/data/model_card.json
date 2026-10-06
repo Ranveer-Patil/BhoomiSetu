@@ -1,0 +1,39 @@
+{
+  "dataset": {
+    "name": "BhoomiSetu reproducible synthetic case history",
+    "real_records": 0,
+    "rows": 1800,
+    "seed": 26016,
+    "sha256": "196faed8ac69b00ea3fabdf398884c519a19a620beb24b8e937e8e0a1bcaa83f"
+  },
+  "holdout": {
+    "method": "80/20 split",
+    "random_state": 26016
+  },
+  "intended_use": [
+    "procedural delay-risk triage",
+    "compensation-disbursal timeline planning"
+  ],
+  "metrics": {
+    "compensation_days": {
+      "baseline_mae_days": 18.19,
+      "holdout_rows": 360,
+      "mae_days": 5.83,
+      "r2": 0.898,
+      "rmse_days": 7.31
+    },
+    "delay_days_remaining": {
+      "baseline_mae_days": 63.16,
+      "holdout_rows": 360,
+      "mae_days": 12.92,
+      "r2": 0.951,
+      "rmse_days": 16.24
+    }
+  },
+  "prohibited_use": [
+    "land valuation or compensation amount calculation",
+    "legal, ownership, eligibility, or payment decisions",
+    "claims of real-world accuracy before approved historical validation"
+  ],
+  "version": "phase3-rf-v2"
+}
